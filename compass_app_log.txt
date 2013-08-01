@@ -1,0 +1,784 @@
+2013-07-31 16:48:57    create stylesheets/foundation.css 
+2013-07-31 16:49:48 overwrite stylesheets/foundation.css 
+2013-07-31 16:49:55 overwrite stylesheets/foundation.css 
+2013-07-31 16:50:00 identical stylesheets/foundation.css 
+2013-07-31 16:50:22 overwrite stylesheets/app.css 
+2013-07-31 16:50:31 overwrite stylesheets/app.css 
+2013-07-31 16:50:36 identical stylesheets/app.css 
+2013-07-31 16:50:47 identical stylesheets/app.css 
+2013-07-31 16:51:00 identical stylesheets/app.css 
+2013-07-31 16:51:03 identical stylesheets/app.css 
+2013-07-31 16:51:10 identical stylesheets/app.css 
+2013-07-31 16:51:11 identical stylesheets/app.css 
+2013-07-31 16:51:22 identical stylesheets/app.css 
+2013-07-31 16:51:45 identical stylesheets/app.css 
+2013-07-31 17:01:19 overwrite stylesheets/app.css 
+2013-07-31 17:01:20 identical stylesheets/foundation.css 
+2013-07-31 17:01:20 identical stylesheets/normalize.css 
+2013-07-31 17:04:12 identical stylesheets/app.css 
+2013-07-31 17:04:13 identical stylesheets/foundation.css 
+2013-07-31 17:04:13 identical stylesheets/normalize.css 
+2013-07-31 17:04:13     error sass/app.scss (Line 50: Invalid CSS after "max-width": expected "{", was "")
+2013-07-31 17:04:13 overwrite stylesheets/app.css 
+2013-07-31 17:04:14 identical stylesheets/foundation.css 
+2013-07-31 17:04:14 identical stylesheets/normalize.css 
+2013-07-31 17:04:23     error sass/app.scss (Line 50: Invalid CSS after ".max-width{}100%": expected "{", was "")
+2013-07-31 17:04:23 overwrite stylesheets/app.css 
+2013-07-31 17:04:24 identical stylesheets/foundation.css 
+2013-07-31 17:04:24 identical stylesheets/normalize.css 
+2013-07-31 17:04:28     error sass/app.scss (Line 50: Invalid CSS after ".max-width{100%": expected "{", was "}")
+2013-07-31 17:04:28 overwrite stylesheets/app.css 
+2013-07-31 17:04:29 identical stylesheets/foundation.css 
+2013-07-31 17:04:29 identical stylesheets/normalize.css 
+2013-07-31 17:04:36 overwrite stylesheets/app.css 
+2013-07-31 17:04:37 identical stylesheets/foundation.css 
+2013-07-31 17:04:37 identical stylesheets/normalize.css 
+2013-07-31 17:04:40 overwrite stylesheets/app.css 
+2013-07-31 17:04:41 identical stylesheets/foundation.css 
+2013-07-31 17:04:41 identical stylesheets/normalize.css 
+2013-07-31 17:06:03 identical stylesheets/app.css 
+2013-07-31 17:06:04 identical stylesheets/foundation.css 
+2013-07-31 17:06:04 identical stylesheets/normalize.css 
+2013-07-31 17:08:50 overwrite stylesheets/app.css 
+2013-07-31 17:08:51 identical stylesheets/foundation.css 
+2013-07-31 17:08:51 identical stylesheets/normalize.css 
+2013-07-31 17:10:29 identical stylesheets/app.css 
+2013-07-31 17:10:30 identical stylesheets/foundation.css 
+2013-07-31 17:10:30 identical stylesheets/normalize.css 
+2013-07-31 17:10:42 overwrite stylesheets/app.css 
+2013-07-31 17:10:43 overwrite stylesheets/foundation.css 
+2013-07-31 17:10:43 identical stylesheets/normalize.css 
+2013-07-31 17:10:48 overwrite stylesheets/app.css 
+2013-07-31 17:10:49 overwrite stylesheets/foundation.css 
+2013-07-31 17:10:49 identical stylesheets/normalize.css 
+2013-07-31 17:10:52 overwrite stylesheets/app.css 
+2013-07-31 17:10:53 overwrite stylesheets/foundation.css 
+2013-07-31 17:10:53 identical stylesheets/normalize.css 
+2013-07-31 17:10:56 overwrite stylesheets/app.css 
+2013-07-31 17:10:57 overwrite stylesheets/foundation.css 
+2013-07-31 17:10:57 identical stylesheets/normalize.css 
+2013-07-31 17:11:18 overwrite stylesheets/app.css 
+2013-07-31 17:11:19 overwrite stylesheets/foundation.css 
+2013-07-31 17:11:19 identical stylesheets/normalize.css 
+2013-07-31 17:12:02 overwrite stylesheets/app.css 
+2013-07-31 17:12:03 overwrite stylesheets/foundation.css 
+2013-07-31 17:12:03 identical stylesheets/normalize.css 
+2013-07-31 17:12:29 overwrite stylesheets/app.css 
+2013-07-31 17:12:30 identical stylesheets/foundation.css 
+2013-07-31 17:12:30 identical stylesheets/normalize.css 
+2013-07-31 17:13:46 identical stylesheets/app.css 
+2013-07-31 17:13:47 identical stylesheets/foundation.css 
+2013-07-31 17:13:47 identical stylesheets/normalize.css 
+2013-07-31 17:13:48 identical stylesheets/app.css 
+2013-07-31 17:13:48 identical stylesheets/foundation.css 
+2013-07-31 17:13:48 identical stylesheets/normalize.css 
+2013-07-31 17:13:55 identical stylesheets/app.css 
+2013-07-31 17:13:56 identical stylesheets/foundation.css 
+2013-07-31 17:13:56 identical stylesheets/normalize.css 
+2013-07-31 17:13:57 identical stylesheets/app.css 
+2013-07-31 17:13:58 identical stylesheets/foundation.css 
+2013-07-31 17:13:58 identical stylesheets/normalize.css 
+2013-07-31 17:14:00 identical stylesheets/app.css 
+2013-07-31 17:14:01 identical stylesheets/foundation.css 
+2013-07-31 17:14:01 identical stylesheets/normalize.css 
+2013-07-31 17:14:12 identical stylesheets/app.css 
+2013-07-31 17:14:12 identical stylesheets/foundation.css 
+2013-07-31 17:14:12 identical stylesheets/normalize.css 
+2013-07-31 17:14:19 identical stylesheets/app.css 
+2013-07-31 17:14:20 identical stylesheets/foundation.css 
+2013-07-31 17:14:20 identical stylesheets/normalize.css 
+2013-07-31 17:14:21 identical stylesheets/app.css 
+2013-07-31 17:14:22 identical stylesheets/foundation.css 
+2013-07-31 17:14:22 identical stylesheets/normalize.css 
+2013-07-31 17:14:26 identical stylesheets/app.css 
+2013-07-31 17:14:27 identical stylesheets/foundation.css 
+2013-07-31 17:14:27 identical stylesheets/normalize.css 
+2013-07-31 17:14:30 identical stylesheets/app.css 
+2013-07-31 17:14:31 identical stylesheets/foundation.css 
+2013-07-31 17:14:31 identical stylesheets/normalize.css 
+2013-07-31 17:14:32 identical stylesheets/app.css 
+2013-07-31 17:14:33 identical stylesheets/foundation.css 
+2013-07-31 17:14:33 identical stylesheets/normalize.css 
+2013-07-31 17:14:34 identical stylesheets/app.css 
+2013-07-31 17:14:35 identical stylesheets/foundation.css 
+2013-07-31 17:14:35 identical stylesheets/normalize.css 
+2013-07-31 17:14:37 identical stylesheets/app.css 
+2013-07-31 17:14:38 identical stylesheets/foundation.css 
+2013-07-31 17:14:38 identical stylesheets/normalize.css 
+2013-07-31 17:14:39 identical stylesheets/app.css 
+2013-07-31 17:14:40 identical stylesheets/foundation.css 
+2013-07-31 17:14:40 identical stylesheets/normalize.css 
+2013-07-31 17:14:41 identical stylesheets/app.css 
+2013-07-31 17:14:42 identical stylesheets/foundation.css 
+2013-07-31 17:14:42 identical stylesheets/normalize.css 
+2013-07-31 17:14:43 identical stylesheets/app.css 
+2013-07-31 17:14:43 identical stylesheets/foundation.css 
+2013-07-31 17:14:43 identical stylesheets/normalize.css 
+2013-07-31 17:26:39 overwrite stylesheets/app.css 
+2013-07-31 17:26:40 identical stylesheets/foundation.css 
+2013-07-31 17:26:40 identical stylesheets/normalize.css 
+2013-07-31 17:27:01     error sass/app.scss (Line 45: File to import not found or unreadable: foundation/components/pa.
+Load paths:
+  C:/Users/surcouf/Documents/GitHub/template_full/sass
+  C:/Users/surcouf/compass2013/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/surcouf/compass2013/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/surcouf/.compass/extensions/vwall-compass-twitter-bootstrap-869202a/stylesheets
+  C:/Users/surcouf/compass2013/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/surcouf/compass2013/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/surcouf/compass2013/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/surcouf/compass2013/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.1.1/vendor/assets/stylesheets
+  C:/Users/surcouf/.compass/extensions/ericam-compass-susy-plugin-4f0278d/sass
+  C:/Users/surcouf/compass2013/compass.app/lib/ruby/compass_extensions/zurb-foundation-4.1.5/scss
+  Compass::SpriteImporter
+  C:/Users/surcouf/compass2013/vendor/assets/stylesheets)
+2013-07-31 17:27:01 overwrite stylesheets/app.css 
+2013-07-31 17:27:01 identical stylesheets/foundation.css 
+2013-07-31 17:27:01 identical stylesheets/normalize.css 
+2013-07-31 17:27:02     error sass/app.scss (Line 45: File to import not found or unreadable: foundation/components/page.
+Load paths:
+  C:/Users/surcouf/Documents/GitHub/template_full/sass
+  C:/Users/surcouf/compass2013/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/surcouf/compass2013/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/surcouf/.compass/extensions/vwall-compass-twitter-bootstrap-869202a/stylesheets
+  C:/Users/surcouf/compass2013/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/surcouf/compass2013/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/surcouf/compass2013/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/surcouf/compass2013/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.1.1/vendor/assets/stylesheets
+  C:/Users/surcouf/.compass/extensions/ericam-compass-susy-plugin-4f0278d/sass
+  C:/Users/surcouf/compass2013/compass.app/lib/ruby/compass_extensions/zurb-foundation-4.1.5/scss
+  Compass::SpriteImporter
+  C:/Users/surcouf/compass2013/vendor/assets/stylesheets)
+2013-07-31 17:27:02 overwrite stylesheets/app.css 
+2013-07-31 17:27:03 identical stylesheets/foundation.css 
+2013-07-31 17:27:03 identical stylesheets/normalize.css 
+2013-07-31 17:27:03     error sass/app.scss (Line 45: File to import not found or unreadable: foundation/components/page_t.
+Load paths:
+  C:/Users/surcouf/Documents/GitHub/template_full/sass
+  C:/Users/surcouf/compass2013/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/surcouf/compass2013/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/surcouf/.compass/extensions/vwall-compass-twitter-bootstrap-869202a/stylesheets
+  C:/Users/surcouf/compass2013/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/surcouf/compass2013/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/surcouf/compass2013/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/surcouf/compass2013/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.1.1/vendor/assets/stylesheets
+  C:/Users/surcouf/.compass/extensions/ericam-compass-susy-plugin-4f0278d/sass
+  C:/Users/surcouf/compass2013/compass.app/lib/ruby/compass_extensions/zurb-foundation-4.1.5/scss
+  Compass::SpriteImporter
+  C:/Users/surcouf/compass2013/vendor/assets/stylesheets)
+2013-07-31 17:27:03 overwrite stylesheets/app.css 
+2013-07-31 17:27:04 identical stylesheets/foundation.css 
+2013-07-31 17:27:04 identical stylesheets/normalize.css 
+2013-07-31 17:27:04     error sass/app.scss (Line 45: File to import not found or unreadable: foundation/components/page_them.
+Load paths:
+  C:/Users/surcouf/Documents/GitHub/template_full/sass
+  C:/Users/surcouf/compass2013/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/surcouf/compass2013/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/surcouf/.compass/extensions/vwall-compass-twitter-bootstrap-869202a/stylesheets
+  C:/Users/surcouf/compass2013/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/surcouf/compass2013/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/surcouf/compass2013/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/surcouf/compass2013/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.1.1/vendor/assets/stylesheets
+  C:/Users/surcouf/.compass/extensions/ericam-compass-susy-plugin-4f0278d/sass
+  C:/Users/surcouf/compass2013/compass.app/lib/ruby/compass_extensions/zurb-foundation-4.1.5/scss
+  Compass::SpriteImporter
+  C:/Users/surcouf/compass2013/vendor/assets/stylesheets)
+2013-07-31 17:27:04 overwrite stylesheets/app.css 
+2013-07-31 17:27:05 identical stylesheets/foundation.css 
+2013-07-31 17:27:05 identical stylesheets/normalize.css 
+2013-07-31 17:27:06     error sass/app.scss (Line 16 of sass/foundation/components/_page_themes.scss: #ffffff is not a number for `darken')
+2013-07-31 17:27:06 overwrite stylesheets/app.css 
+2013-07-31 17:27:06 identical stylesheets/foundation.css 
+2013-07-31 17:27:06 identical stylesheets/normalize.css 
+2013-07-31 17:27:43     error sass/app.scss (Line 16 of sass/foundation/components/_page_themes.scss: #ffffff is not a number for `darken')
+2013-07-31 17:27:43 identical stylesheets/app.css 
+2013-07-31 17:27:44 identical stylesheets/foundation.css 
+2013-07-31 17:27:44 identical stylesheets/normalize.css 
+2013-07-31 17:27:45     error sass/app.scss (Line 16 of sass/foundation/components/_page_themes.scss: #ffffff is not a number for `darken')
+2013-07-31 17:27:45 identical stylesheets/app.css 
+2013-07-31 17:27:46 identical stylesheets/foundation.css 
+2013-07-31 17:27:46 identical stylesheets/normalize.css 
+2013-07-31 17:27:46     error sass/app.scss (Line 16 of sass/foundation/components/_page_themes.scss: #ffffff is not a number for `darken')
+2013-07-31 17:27:46 identical stylesheets/app.css 
+2013-07-31 17:27:47 identical stylesheets/foundation.css 
+2013-07-31 17:27:47 identical stylesheets/normalize.css 
+2013-07-31 17:27:48     error sass/app.scss (Line 16 of sass/foundation/components/_page_themes.scss: #ffffff is not a number for `darken')
+2013-07-31 17:27:48 identical stylesheets/app.css 
+2013-07-31 17:27:48 identical stylesheets/foundation.css 
+2013-07-31 17:27:48 identical stylesheets/normalize.css 
+2013-07-31 17:27:57     error sass/app.scss (Line 16 of sass/foundation/components/_page_themes.scss: #ffffff is not a number for `darken')
+2013-07-31 17:27:57 identical stylesheets/app.css 
+2013-07-31 17:27:58 identical stylesheets/foundation.css 
+2013-07-31 17:27:58 identical stylesheets/normalize.css 
+2013-07-31 17:27:58     error sass/app.scss (Line 16 of sass/foundation/components/_page_themes.scss: #ffffff is not a number for `darken')
+2013-07-31 17:27:58 identical stylesheets/app.css 
+2013-07-31 17:27:59 identical stylesheets/foundation.css 
+2013-07-31 17:27:59 identical stylesheets/normalize.css 
+2013-07-31 17:27:59     error sass/app.scss (Line 16 of sass/foundation/components/_page_themes.scss: #ffffff is not a number for `darken')
+2013-07-31 17:27:59 identical stylesheets/app.css 
+2013-07-31 17:28:00 identical stylesheets/foundation.css 
+2013-07-31 17:28:00 identical stylesheets/normalize.css 
+2013-07-31 17:28:03     error sass/app.scss (Line 32 of sass/foundation/components/_page_themes.scss: Undefined variable: "$page-background".)
+2013-07-31 17:28:03 overwrite stylesheets/app.css 
+2013-07-31 17:28:03 identical stylesheets/foundation.css 
+2013-07-31 17:28:03 identical stylesheets/normalize.css 
+2013-07-31 17:28:36 overwrite stylesheets/app.css 
+2013-07-31 17:28:37 identical stylesheets/foundation.css 
+2013-07-31 17:28:37 identical stylesheets/normalize.css 
+2013-07-31 17:28:45     error sass/app.scss (Line 32 of sass/foundation/components/_page_themes.scss: Undefined variable: "$page-background".)
+2013-07-31 17:28:45 overwrite stylesheets/app.css 
+2013-07-31 17:28:45 identical stylesheets/foundation.css 
+2013-07-31 17:28:45 identical stylesheets/normalize.css 
+2013-07-31 17:28:57     error sass/app.scss (Line 31 of sass/foundation/components/_page_themes.scss: Undefined variable: "$page-background".)
+2013-07-31 17:28:57 overwrite stylesheets/app.css 
+2013-07-31 17:28:57 identical stylesheets/foundation.css 
+2013-07-31 17:28:58 identical stylesheets/normalize.css 
+2013-07-31 17:28:59 overwrite stylesheets/app.css 
+2013-07-31 17:29:00 identical stylesheets/foundation.css 
+2013-07-31 17:29:00 identical stylesheets/normalize.css 
+2013-07-31 17:32:26 overwrite stylesheets/app.css 
+2013-07-31 17:32:27 identical stylesheets/foundation.css 
+2013-07-31 17:32:27 identical stylesheets/normalize.css 
+2013-07-31 17:32:30 overwrite stylesheets/app.css 
+2013-07-31 17:32:30 identical stylesheets/foundation.css 
+2013-07-31 17:32:30 identical stylesheets/normalize.css 
+2013-07-31 17:32:32 overwrite stylesheets/app.css 
+2013-07-31 17:32:33 identical stylesheets/foundation.css 
+2013-07-31 17:32:33 identical stylesheets/normalize.css 
+2013-07-31 17:32:42     error sass/app.scss (Line 16 of sass/foundation/components/_page_themes.scss: Undefined variable: "$page-background-bg".)
+2013-07-31 17:32:42 overwrite stylesheets/app.css 
+2013-07-31 17:32:42 identical stylesheets/foundation.css 
+2013-07-31 17:32:42 identical stylesheets/normalize.css 
+2013-07-31 17:33:01 overwrite stylesheets/app.css 
+2013-07-31 17:33:02 identical stylesheets/foundation.css 
+2013-07-31 17:33:02 identical stylesheets/normalize.css 
+2013-07-31 17:33:18 overwrite stylesheets/app.css 
+2013-07-31 17:33:19 identical stylesheets/foundation.css 
+2013-07-31 17:33:19 identical stylesheets/normalize.css 
+2013-07-31 17:33:23     error sass/app.scss (Line 16 of sass/foundation/components/_page_themes.scss: Amount 300% must be between 0% and 100% for `darken')
+2013-07-31 17:33:23 overwrite stylesheets/app.css 
+2013-07-31 17:33:24 identical stylesheets/foundation.css 
+2013-07-31 17:33:24 identical stylesheets/normalize.css 
+2013-07-31 17:33:25 overwrite stylesheets/app.css 
+2013-07-31 17:33:26 identical stylesheets/foundation.css 
+2013-07-31 17:33:26 identical stylesheets/normalize.css 
+2013-07-31 17:33:33 overwrite stylesheets/app.css 
+2013-07-31 17:33:33 identical stylesheets/foundation.css 
+2013-07-31 17:33:33 identical stylesheets/normalize.css 
+2013-07-31 17:37:49 overwrite stylesheets/app.css 
+2013-07-31 17:37:50 identical stylesheets/foundation.css 
+2013-07-31 17:37:50 identical stylesheets/normalize.css 
+2013-07-31 17:37:51 identical stylesheets/app.css 
+2013-07-31 17:37:51 identical stylesheets/foundation.css 
+2013-07-31 17:37:52 identical stylesheets/normalize.css 
+2013-07-31 17:38:00 overwrite stylesheets/app.css 
+2013-07-31 17:38:01 identical stylesheets/foundation.css 
+2013-07-31 17:38:01 identical stylesheets/normalize.css 
+2013-07-31 17:38:07 overwrite stylesheets/app.css 
+2013-07-31 17:38:08 identical stylesheets/foundation.css 
+2013-07-31 17:38:08 identical stylesheets/normalize.css 
+2013-07-31 17:38:12 overwrite stylesheets/app.css 
+2013-07-31 17:38:12 identical stylesheets/foundation.css 
+2013-07-31 17:38:12 identical stylesheets/normalize.css 
+2013-07-31 17:38:19 overwrite stylesheets/app.css 
+2013-07-31 17:38:20 identical stylesheets/foundation.css 
+2013-07-31 17:38:20 identical stylesheets/normalize.css 
+2013-07-31 17:38:26 overwrite stylesheets/app.css 
+2013-07-31 17:38:27 identical stylesheets/foundation.css 
+2013-07-31 17:38:27 identical stylesheets/normalize.css 
+2013-07-31 17:38:35 overwrite stylesheets/app.css 
+2013-07-31 17:38:35 identical stylesheets/foundation.css 
+2013-07-31 17:38:35 identical stylesheets/normalize.css 
+2013-07-31 17:38:37 overwrite stylesheets/app.css 
+2013-07-31 17:38:38 identical stylesheets/foundation.css 
+2013-07-31 17:38:38 identical stylesheets/normalize.css 
+2013-07-31 17:38:46 overwrite stylesheets/app.css 
+2013-07-31 17:38:47 identical stylesheets/foundation.css 
+2013-07-31 17:38:47 identical stylesheets/normalize.css 
+2013-07-31 17:39:05 overwrite stylesheets/app.css 
+2013-07-31 17:39:06 identical stylesheets/foundation.css 
+2013-07-31 17:39:06 identical stylesheets/normalize.css 
+2013-07-31 17:39:06 overwrite stylesheets/app.css 
+2013-07-31 17:39:07 identical stylesheets/foundation.css 
+2013-07-31 17:39:07 identical stylesheets/normalize.css 
+2013-07-31 17:39:08 overwrite stylesheets/app.css 
+2013-07-31 17:39:09 identical stylesheets/foundation.css 
+2013-07-31 17:39:09 identical stylesheets/normalize.css 
+2013-07-31 17:39:15 identical stylesheets/app.css 
+2013-07-31 17:39:15 identical stylesheets/foundation.css 
+2013-07-31 17:39:15 identical stylesheets/normalize.css 
+2013-07-31 17:39:22 identical stylesheets/app.css 
+2013-07-31 17:39:23 identical stylesheets/foundation.css 
+2013-07-31 17:39:23 identical stylesheets/normalize.css 
+2013-07-31 17:41:32     error sass/app.scss (Line 45 of sass/foundation/components/_page_themes.scss: Mixin themes_constructor doesn't have an argument named $page_background.)
+2013-07-31 17:41:32 overwrite stylesheets/app.css 
+2013-07-31 17:41:33 identical stylesheets/foundation.css 
+2013-07-31 17:41:33 identical stylesheets/normalize.css 
+2013-07-31 17:41:35     error sass/app.scss (Line 45 of sass/foundation/components/_page_themes.scss: Mixin themes_constructor doesn't have an argument named $page_background.)
+2013-07-31 17:41:35 identical stylesheets/app.css 
+2013-07-31 17:41:35 identical stylesheets/foundation.css 
+2013-07-31 17:41:35 identical stylesheets/normalize.css 
+2013-07-31 17:41:39     error sass/app.scss (Line 45 of sass/foundation/components/_page_themes.scss: Mixin themes_constructor takes 0 arguments but 1 was passed.)
+2013-07-31 17:41:39 overwrite stylesheets/app.css 
+2013-07-31 17:41:39 identical stylesheets/foundation.css 
+2013-07-31 17:41:39 identical stylesheets/normalize.css 
+2013-07-31 17:42:30     error sass/app.scss (Line 42 of sass/foundation/components/_page_themes.scss: Mixin themes_constructor is missing argument $bs.)
+2013-07-31 17:42:30 overwrite stylesheets/app.css 
+2013-07-31 17:42:31 identical stylesheets/foundation.css 
+2013-07-31 17:42:31 identical stylesheets/normalize.css 
+2013-07-31 17:42:48     error sass/app.scss (Line 25 of sass/foundation/components/_page_themes.scss: Invalid CSS after "...               ": expected ")", was "!default;")
+2013-07-31 17:42:48 overwrite stylesheets/app.css 
+2013-07-31 17:42:49 identical stylesheets/foundation.css 
+2013-07-31 17:42:49 identical stylesheets/normalize.css 
+2013-07-31 17:42:49     error sass/app.scss (Line 25 of sass/foundation/components/_page_themes.scss: Invalid CSS after "...               ": expected ")", was "!default;")
+2013-07-31 17:42:49 identical stylesheets/app.css 
+2013-07-31 17:42:50 identical stylesheets/foundation.css 
+2013-07-31 17:42:50 identical stylesheets/normalize.css 
+2013-07-31 17:42:53     error sass/app.scss (Line 42 of sass/foundation/components/_page_themes.scss: Mixin themes_constructor is missing argument $page-background-padding.)
+2013-07-31 17:42:53 overwrite stylesheets/app.css 
+2013-07-31 17:42:53 identical stylesheets/foundation.css 
+2013-07-31 17:42:53 identical stylesheets/normalize.css 
+2013-07-31 17:43:08     error sass/app.scss (Line 42 of sass/foundation/components/_page_themes.scss: Mixin themes_constructor is missing argument $page-background.)
+2013-07-31 17:43:08 overwrite stylesheets/app.css 
+2013-07-31 17:43:09 identical stylesheets/foundation.css 
+2013-07-31 17:43:09 identical stylesheets/normalize.css 
+2013-07-31 17:43:23     error sass/app.scss (Line 42 of sass/foundation/components/_page_themes.scss: Mixin themes_constructor is missing argument $page-background-padding.)
+2013-07-31 17:43:23 overwrite stylesheets/app.css 
+2013-07-31 17:43:24 identical stylesheets/foundation.css 
+2013-07-31 17:43:24 identical stylesheets/normalize.css 
+2013-07-31 17:43:29     error sass/app.scss (Line 42 of sass/foundation/components/_page_themes.scss: Mixin themes_constructor is missing argument $page-background.)
+2013-07-31 17:43:29 overwrite stylesheets/app.css 
+2013-07-31 17:43:30 identical stylesheets/foundation.css 
+2013-07-31 17:43:30 identical stylesheets/normalize.css 
+2013-07-31 17:43:35 overwrite stylesheets/app.css 
+2013-07-31 17:43:36 identical stylesheets/foundation.css 
+2013-07-31 17:43:36 identical stylesheets/normalize.css 
+2013-07-31 17:44:07 overwrite stylesheets/app.css 
+2013-07-31 17:44:07 identical stylesheets/foundation.css 
+2013-07-31 17:44:07 identical stylesheets/normalize.css 
+2013-07-31 17:48:29 overwrite stylesheets/app.css 
+2013-07-31 17:48:30 identical stylesheets/foundation.css 
+2013-07-31 17:48:30 identical stylesheets/normalize.css 
+2013-07-31 17:48:34 overwrite stylesheets/app.css 
+2013-07-31 17:48:35 identical stylesheets/foundation.css 
+2013-07-31 17:48:35 identical stylesheets/normalize.css 
+2013-07-31 17:48:37 overwrite stylesheets/app.css 
+2013-07-31 17:48:37 identical stylesheets/foundation.css 
+2013-07-31 17:48:37 identical stylesheets/normalize.css 
+2013-07-31 17:48:39 overwrite stylesheets/app.css 
+2013-07-31 17:48:40 identical stylesheets/foundation.css 
+2013-07-31 17:48:40 identical stylesheets/normalize.css 
+2013-07-31 17:48:41 overwrite stylesheets/app.css 
+2013-07-31 17:48:42 identical stylesheets/foundation.css 
+2013-07-31 17:48:42 identical stylesheets/normalize.css 
+2013-07-31 17:48:47 overwrite stylesheets/app.css 
+2013-07-31 17:48:48 identical stylesheets/foundation.css 
+2013-07-31 17:48:48 identical stylesheets/normalize.css 
+2013-07-31 17:48:54 overwrite stylesheets/app.css 
+2013-07-31 17:48:55 identical stylesheets/foundation.css 
+2013-07-31 17:48:55 identical stylesheets/normalize.css 
+2013-07-31 17:48:56 identical stylesheets/app.css 
+2013-07-31 17:48:57 identical stylesheets/foundation.css 
+2013-07-31 17:48:57 identical stylesheets/normalize.css 
+2013-07-31 17:49:00 overwrite stylesheets/app.css 
+2013-07-31 17:49:01 identical stylesheets/foundation.css 
+2013-07-31 17:49:01 identical stylesheets/normalize.css 
+2013-07-31 17:49:05 overwrite stylesheets/app.css 
+2013-07-31 17:49:06 identical stylesheets/foundation.css 
+2013-07-31 17:49:06 identical stylesheets/normalize.css 
+2013-07-31 17:49:19 overwrite stylesheets/app.css 
+2013-07-31 17:49:20 identical stylesheets/foundation.css 
+2013-07-31 17:49:20 identical stylesheets/normalize.css 
+2013-07-31 17:49:23 overwrite stylesheets/app.css 
+2013-07-31 17:49:23 identical stylesheets/foundation.css 
+2013-07-31 17:49:23 identical stylesheets/normalize.css 
+2013-07-31 17:49:25 overwrite stylesheets/app.css 
+2013-07-31 17:49:26 identical stylesheets/foundation.css 
+2013-07-31 17:49:26 identical stylesheets/normalize.css 
+2013-07-31 17:49:43 overwrite stylesheets/app.css 
+2013-07-31 17:49:44 identical stylesheets/foundation.css 
+2013-07-31 17:49:44 identical stylesheets/normalize.css 
+2013-07-31 17:49:56 overwrite stylesheets/app.css 
+2013-07-31 17:49:57 identical stylesheets/foundation.css 
+2013-07-31 17:49:57 identical stylesheets/normalize.css 
+2013-07-31 17:52:36 overwrite stylesheets/app.css 
+2013-07-31 17:52:37 identical stylesheets/foundation.css 
+2013-07-31 17:52:37 identical stylesheets/normalize.css 
+2013-07-31 17:56:09 identical stylesheets/app.css 
+2013-07-31 17:56:10 identical stylesheets/foundation.css 
+2013-07-31 17:56:10 identical stylesheets/normalize.css 
+2013-07-31 17:56:11 overwrite stylesheets/app.css 
+2013-07-31 17:56:11 identical stylesheets/foundation.css 
+2013-07-31 17:56:11 identical stylesheets/normalize.css 
+2013-07-31 17:57:25     error sass/app.scss (Line 25 of sass/foundation/components/_page_themes.scss: Invalid CSS after "...page-background": expected ")", was ";$page-backgrou...")
+2013-07-31 17:57:25 overwrite stylesheets/app.css 
+2013-07-31 17:57:26 identical stylesheets/foundation.css 
+2013-07-31 17:57:26 identical stylesheets/normalize.css 
+2013-07-31 17:57:26     error sass/app.scss (Line 25 of sass/foundation/components/_page_themes.scss: Invalid CSS after "...page-background": expected ")", was ";$page-backgrou...")
+2013-07-31 17:57:26 identical stylesheets/app.css 
+2013-07-31 17:57:27 identical stylesheets/foundation.css 
+2013-07-31 17:57:27 identical stylesheets/normalize.css 
+2013-07-31 17:57:42 overwrite stylesheets/app.css 
+2013-07-31 17:57:43 identical stylesheets/foundation.css 
+2013-07-31 17:57:43 identical stylesheets/normalize.css 
+2013-07-31 17:59:15 overwrite stylesheets/app.css 
+2013-07-31 17:59:16 identical stylesheets/foundation.css 
+2013-07-31 17:59:16 identical stylesheets/normalize.css 
+2013-07-31 17:59:17 overwrite stylesheets/app.css 
+2013-07-31 17:59:18 identical stylesheets/foundation.css 
+2013-07-31 17:59:18 identical stylesheets/normalize.css 
+2013-07-31 17:59:33 overwrite stylesheets/app.css 
+2013-07-31 17:59:33 identical stylesheets/foundation.css 
+2013-07-31 17:59:34 identical stylesheets/normalize.css 
+2013-07-31 17:59:39 identical stylesheets/app.css 
+2013-07-31 17:59:39 identical stylesheets/foundation.css 
+2013-07-31 17:59:39 identical stylesheets/normalize.css 
+2013-07-31 17:59:45 identical stylesheets/app.css 
+2013-07-31 17:59:45 identical stylesheets/foundation.css 
+2013-07-31 17:59:46 identical stylesheets/normalize.css 
+2013-07-31 17:59:55 identical stylesheets/app.css 
+2013-07-31 17:59:56 identical stylesheets/foundation.css 
+2013-07-31 17:59:56 identical stylesheets/normalize.css 
+2013-07-31 17:59:57 identical stylesheets/app.css 
+2013-07-31 17:59:58 identical stylesheets/foundation.css 
+2013-07-31 17:59:58 identical stylesheets/normalize.css 
+2013-07-31 18:00:02 identical stylesheets/app.css 
+2013-07-31 18:00:03 identical stylesheets/foundation.css 
+2013-07-31 18:00:03 identical stylesheets/normalize.css 
+2013-07-31 18:00:18 identical stylesheets/app.css 
+2013-07-31 18:00:19 identical stylesheets/foundation.css 
+2013-07-31 18:00:19 identical stylesheets/normalize.css 
+2013-07-31 18:00:40     error sass/app.scss (Line 26 of sass/foundation/components/_page_themes.scss: Required argument $page-background-font-weight must come before any optional arguments.)
+2013-07-31 18:00:40 overwrite stylesheets/app.css 
+2013-07-31 18:00:40 identical stylesheets/foundation.css 
+2013-07-31 18:00:40 identical stylesheets/normalize.css 
+2013-07-31 18:00:41 overwrite stylesheets/app.css 
+2013-07-31 18:00:42 identical stylesheets/foundation.css 
+2013-07-31 18:00:42 identical stylesheets/normalize.css 
+2013-07-31 18:01:08 overwrite stylesheets/app.css 
+2013-07-31 18:01:09 identical stylesheets/foundation.css 
+2013-07-31 18:01:09 identical stylesheets/normalize.css 
+2013-07-31 18:01:16 overwrite stylesheets/app.css 
+2013-07-31 18:01:17 identical stylesheets/foundation.css 
+2013-07-31 18:01:17 identical stylesheets/normalize.css 
+2013-07-31 18:01:26 overwrite stylesheets/app.css 
+2013-07-31 18:01:27 identical stylesheets/foundation.css 
+2013-07-31 18:01:27 identical stylesheets/normalize.css 
+2013-07-31 18:01:39     error sass/app.scss (Line 33 of sass/foundation/components/_page_themes.scss: "de" is not a color for `darken')
+2013-07-31 18:01:39 overwrite stylesheets/app.css 
+2013-07-31 18:01:40 identical stylesheets/foundation.css 
+2013-07-31 18:01:40 identical stylesheets/normalize.css 
+2013-07-31 18:01:44     error sass/app.scss (Line 49 of sass/foundation/components/_page_themes.scss: Invalid CSS after "...es_constructor(": expected ")", was ",0,200);")
+2013-07-31 18:01:44 overwrite stylesheets/app.css 
+2013-07-31 18:01:44 identical stylesheets/foundation.css 
+2013-07-31 18:01:44 identical stylesheets/normalize.css 
+2013-07-31 18:01:45     error sass/app.scss (Line 49 of sass/foundation/components/_page_themes.scss: Invalid CSS after "...es_constructor(": expected ")", was ",0,200);")
+2013-07-31 18:01:45 identical stylesheets/app.css 
+2013-07-31 18:01:46 identical stylesheets/foundation.css 
+2013-07-31 18:01:46 identical stylesheets/normalize.css 
+2013-07-31 18:01:56 overwrite stylesheets/app.css 
+2013-07-31 18:01:57 identical stylesheets/foundation.css 
+2013-07-31 18:01:57 identical stylesheets/normalize.css 
+2013-07-31 18:02:42 overwrite stylesheets/app.css 
+2013-07-31 18:02:43 identical stylesheets/foundation.css 
+2013-07-31 18:02:43 identical stylesheets/normalize.css 
+2013-07-31 18:02:44 overwrite stylesheets/app.css 
+2013-07-31 18:02:44 identical stylesheets/foundation.css 
+2013-07-31 18:02:44 identical stylesheets/normalize.css 
+2013-07-31 18:02:46 overwrite stylesheets/app.css 
+2013-07-31 18:02:47 identical stylesheets/foundation.css 
+2013-07-31 18:02:47 identical stylesheets/normalize.css 
+2013-07-31 18:04:18 overwrite stylesheets/app.css 
+2013-07-31 18:04:19 identical stylesheets/foundation.css 
+2013-07-31 18:04:19 identical stylesheets/normalize.css 
+2013-07-31 18:04:21 overwrite stylesheets/app.css 
+2013-07-31 18:04:21 identical stylesheets/foundation.css 
+2013-07-31 18:04:21 identical stylesheets/normalize.css 
+2013-07-31 18:04:28 overwrite stylesheets/app.css 
+2013-07-31 18:04:29 identical stylesheets/foundation.css 
+2013-07-31 18:04:29 identical stylesheets/normalize.css 
+2013-07-31 18:04:34 identical stylesheets/app.css 
+2013-07-31 18:04:35 identical stylesheets/foundation.css 
+2013-07-31 18:04:35 identical stylesheets/normalize.css 
+2013-07-31 18:04:42 identical stylesheets/app.css 
+2013-07-31 18:04:43 identical stylesheets/foundation.css 
+2013-07-31 18:04:43 identical stylesheets/normalize.css 
+2013-07-31 18:04:44 identical stylesheets/app.css 
+2013-07-31 18:04:45 identical stylesheets/foundation.css 
+2013-07-31 18:04:45 identical stylesheets/normalize.css 
+2013-07-31 18:04:46 identical stylesheets/app.css 
+2013-07-31 18:04:46 identical stylesheets/foundation.css 
+2013-07-31 18:04:46 identical stylesheets/normalize.css 
+2013-07-31 18:04:47 identical stylesheets/app.css 
+2013-07-31 18:04:48 identical stylesheets/foundation.css 
+2013-07-31 18:04:48 identical stylesheets/normalize.css 
+2013-07-31 18:04:50 identical stylesheets/app.css 
+2013-07-31 18:04:50 identical stylesheets/foundation.css 
+2013-07-31 18:04:51 identical stylesheets/normalize.css 
+2013-07-31 18:05:05 overwrite stylesheets/app.css 
+2013-07-31 18:05:06 identical stylesheets/foundation.css 
+2013-07-31 18:05:06 identical stylesheets/normalize.css 
+2013-07-31 18:05:13 overwrite stylesheets/app.css 
+2013-07-31 18:05:14 identical stylesheets/foundation.css 
+2013-07-31 18:05:14 identical stylesheets/normalize.css 
+2013-07-31 18:05:56     error sass/app.scss (Line 51 of sass/foundation/components/_page_themes.scss: Colors must have either three or six digits: '#0')
+2013-07-31 18:05:56 overwrite stylesheets/app.css 
+2013-07-31 18:05:57 identical stylesheets/foundation.css 
+2013-07-31 18:05:57 identical stylesheets/normalize.css 
+2013-07-31 18:05:58 overwrite stylesheets/app.css 
+2013-07-31 18:05:59 identical stylesheets/foundation.css 
+2013-07-31 18:05:59 identical stylesheets/normalize.css 
+2013-07-31 18:06:13 overwrite stylesheets/app.css 
+2013-07-31 18:06:14 identical stylesheets/foundation.css 
+2013-07-31 18:06:14 identical stylesheets/normalize.css 
+2013-07-31 18:07:02 identical stylesheets/app.css 
+2013-07-31 18:07:03 identical stylesheets/foundation.css 
+2013-07-31 18:07:03 identical stylesheets/normalize.css 
+2013-07-31 18:07:04 identical stylesheets/app.css 
+2013-07-31 18:07:05 identical stylesheets/foundation.css 
+2013-07-31 18:07:05 identical stylesheets/normalize.css 
+2013-07-31 18:07:29 overwrite stylesheets/app.css 
+2013-07-31 18:07:29 identical stylesheets/foundation.css 
+2013-07-31 18:07:29 identical stylesheets/normalize.css 
+2013-07-31 18:07:36 overwrite stylesheets/app.css 
+2013-07-31 18:07:37 identical stylesheets/foundation.css 
+2013-07-31 18:07:37 identical stylesheets/normalize.css 
+2013-07-31 18:07:40 overwrite stylesheets/app.css 
+2013-07-31 18:07:41 identical stylesheets/foundation.css 
+2013-07-31 18:07:41 identical stylesheets/normalize.css 
+2013-07-31 18:08:06 overwrite stylesheets/app.css 
+2013-07-31 18:08:07 identical stylesheets/foundation.css 
+2013-07-31 18:08:07 identical stylesheets/normalize.css 
+2013-07-31 18:08:18 overwrite stylesheets/app.css 
+2013-07-31 18:08:19 identical stylesheets/foundation.css 
+2013-07-31 18:08:19 identical stylesheets/normalize.css 
+2013-07-31 18:08:23 overwrite stylesheets/app.css 
+2013-07-31 18:08:24 identical stylesheets/foundation.css 
+2013-07-31 18:08:24 identical stylesheets/normalize.css 
+2013-07-31 18:20:00 overwrite stylesheets/app.css 
+2013-07-31 18:20:00 identical stylesheets/foundation.css 
+2013-07-31 18:20:00 identical stylesheets/normalize.css 
+2013-07-31 18:21:54 overwrite stylesheets/app.css 
+2013-07-31 18:21:55 identical stylesheets/foundation.css 
+2013-07-31 18:21:55 identical stylesheets/normalize.css 
+2013-07-31 18:21:55     error sass/app.scss (Line 36 of sass/foundation/components/_page_themes.scss: Invalid CSS after "  color": expected ";", was ": darken($page-...")
+2013-07-31 18:21:55 overwrite stylesheets/app.css 
+2013-07-31 18:21:56 identical stylesheets/foundation.css 
+2013-07-31 18:21:56 identical stylesheets/normalize.css 
+2013-07-31 18:21:57 overwrite stylesheets/app.css 
+2013-07-31 18:21:58 identical stylesheets/foundation.css 
+2013-07-31 18:21:58 identical stylesheets/normalize.css 
+2013-07-31 18:27:11 identical stylesheets/app.css 
+2013-07-31 18:27:11 identical stylesheets/foundation.css 
+2013-07-31 18:27:11 identical stylesheets/normalize.css 
+2013-07-31 18:27:28 identical stylesheets/app.css 
+2013-07-31 18:27:29 identical stylesheets/foundation.css 
+2013-07-31 18:27:29 identical stylesheets/normalize.css 
+2013-07-31 18:27:36 identical stylesheets/app.css 
+2013-07-31 18:27:37 identical stylesheets/foundation.css 
+2013-07-31 18:27:37 identical stylesheets/normalize.css 
+2013-07-31 18:27:39 overwrite stylesheets/app.css 
+2013-07-31 18:27:39 identical stylesheets/foundation.css 
+2013-07-31 18:27:39 identical stylesheets/normalize.css 
+2013-07-31 18:28:22 overwrite stylesheets/app.css 
+2013-07-31 18:28:23 identical stylesheets/foundation.css 
+2013-07-31 18:28:23 identical stylesheets/normalize.css 
+2013-07-31 18:28:24 identical stylesheets/app.css 
+2013-07-31 18:28:25 identical stylesheets/foundation.css 
+2013-07-31 18:28:25 identical stylesheets/normalize.css 
+2013-07-31 18:29:23 identical stylesheets/app.css 
+2013-07-31 18:29:23 identical stylesheets/foundation.css 
+2013-07-31 18:29:23 identical stylesheets/normalize.css 
+2013-07-31 18:29:24 identical stylesheets/app.css 
+2013-07-31 18:29:25 identical stylesheets/foundation.css 
+2013-07-31 18:29:25 identical stylesheets/normalize.css 
+2013-07-31 18:29:43 identical stylesheets/app.css 
+2013-07-31 18:29:43 identical stylesheets/foundation.css 
+2013-07-31 18:29:43 identical stylesheets/normalize.css 
+2013-07-31 18:29:56 identical stylesheets/app.css 
+2013-07-31 18:29:57 identical stylesheets/foundation.css 
+2013-07-31 18:29:57 identical stylesheets/normalize.css 
+2013-07-31 18:29:58 identical stylesheets/app.css 
+2013-07-31 18:29:59 identical stylesheets/foundation.css 
+2013-07-31 18:29:59 identical stylesheets/normalize.css 
+2013-07-31 18:30:03 identical stylesheets/app.css 
+2013-07-31 18:30:03 identical stylesheets/foundation.css 
+2013-07-31 18:30:03 identical stylesheets/normalize.css 
+2013-07-31 18:30:04 identical stylesheets/app.css 
+2013-07-31 18:30:05 identical stylesheets/foundation.css 
+2013-07-31 18:30:05 identical stylesheets/normalize.css 
+2013-07-31 18:30:06 identical stylesheets/app.css 
+2013-07-31 18:30:07 identical stylesheets/foundation.css 
+2013-07-31 18:30:07 identical stylesheets/normalize.css 
+2013-07-31 18:30:18 overwrite stylesheets/app.css 
+2013-07-31 18:30:18 identical stylesheets/foundation.css 
+2013-07-31 18:30:18 identical stylesheets/normalize.css 
+2013-07-31 18:32:21 identical stylesheets/app.css 
+2013-07-31 18:32:22 identical stylesheets/foundation.css 
+2013-07-31 18:32:22 identical stylesheets/normalize.css 
+2013-07-31 18:32:48 overwrite stylesheets/app.css 
+2013-07-31 18:32:49 identical stylesheets/foundation.css 
+2013-07-31 18:32:49 identical stylesheets/normalize.css 
+2013-07-31 18:32:52 identical stylesheets/app.css 
+2013-07-31 18:32:53 identical stylesheets/foundation.css 
+2013-07-31 18:32:53 identical stylesheets/normalize.css 
+2013-07-31 18:32:57 overwrite stylesheets/app.css 
+2013-07-31 18:32:58 identical stylesheets/foundation.css 
+2013-07-31 18:32:58 identical stylesheets/normalize.css 
+2013-07-31 18:33:02 overwrite stylesheets/app.css 
+2013-07-31 18:33:03 identical stylesheets/foundation.css 
+2013-07-31 18:33:03 identical stylesheets/normalize.css 
+2013-07-31 18:33:36 overwrite stylesheets/app.css 
+2013-07-31 18:33:37 identical stylesheets/foundation.css 
+2013-07-31 18:33:37 identical stylesheets/normalize.css 
+2013-07-31 18:33:41 overwrite stylesheets/app.css 
+2013-07-31 18:33:42 identical stylesheets/foundation.css 
+2013-07-31 18:33:42 identical stylesheets/normalize.css 
+2013-07-31 18:34:39     error sass/app.scss (Line 56 of sass/foundation/components/_page_themes.scss: Invalid CSS after "...-link-font-size": expected ":", was "a{font-size:3em;}")
+2013-07-31 18:34:39 overwrite stylesheets/app.css 
+2013-07-31 18:34:40 identical stylesheets/foundation.css 
+2013-07-31 18:34:40 identical stylesheets/normalize.css 
+2013-07-31 18:34:40     error sass/app.scss (Line 56 of sass/foundation/components/_page_themes.scss: Invalid CSS after "...-link-font-size": expected ":", was "a{font-size:3em;}")
+2013-07-31 18:34:40 identical stylesheets/app.css 
+2013-07-31 18:34:41 identical stylesheets/foundation.css 
+2013-07-31 18:34:41 identical stylesheets/normalize.css 
+2013-07-31 18:34:42     error sass/app.scss (Line 56 of sass/foundation/components/_page_themes.scss: Invalid CSS after "  a": expected "}", was "{font-size:3em;}")
+2013-07-31 18:34:42 overwrite stylesheets/app.css 
+2013-07-31 18:34:42 identical stylesheets/foundation.css 
+2013-07-31 18:34:43 identical stylesheets/normalize.css 
+2013-07-31 18:34:43     error sass/app.scss (Line 56 of sass/foundation/components/_page_themes.scss: Invalid CSS after "  a": expected "}", was "{font-size:3em;}")
+2013-07-31 18:34:43 identical stylesheets/app.css 
+2013-07-31 18:34:44 identical stylesheets/foundation.css 
+2013-07-31 18:34:44 identical stylesheets/normalize.css 
+2013-07-31 18:34:47     error sass/app.scss (Line 56 of sass/foundation/components/_page_themes.scss: Invalid CSS after "  a": expected "}", was "{font-size:3em;}")
+2013-07-31 18:34:47 identical stylesheets/app.css 
+2013-07-31 18:34:48 identical stylesheets/foundation.css 
+2013-07-31 18:34:48 identical stylesheets/normalize.css 
+2013-07-31 18:34:49 overwrite stylesheets/app.css 
+2013-07-31 18:34:49 identical stylesheets/foundation.css 
+2013-07-31 18:34:49 identical stylesheets/normalize.css 
+2013-07-31 18:35:04 identical stylesheets/app.css 
+2013-07-31 18:35:05 identical stylesheets/foundation.css 
+2013-07-31 18:35:05 identical stylesheets/normalize.css 
+2013-07-31 18:35:06 identical stylesheets/app.css 
+2013-07-31 18:35:07 identical stylesheets/foundation.css 
+2013-07-31 18:35:07 identical stylesheets/normalize.css 
+2013-07-31 18:35:10 identical stylesheets/app.css 
+2013-07-31 18:35:10 identical stylesheets/foundation.css 
+2013-07-31 18:35:10 identical stylesheets/normalize.css 
+2013-07-31 18:35:20 identical stylesheets/app.css 
+2013-07-31 18:35:21 identical stylesheets/foundation.css 
+2013-07-31 18:35:21 identical stylesheets/normalize.css 
+2013-07-31 18:35:24 overwrite stylesheets/app.css 
+2013-07-31 18:35:25 identical stylesheets/foundation.css 
+2013-07-31 18:35:25 identical stylesheets/normalize.css 
+2013-07-31 18:35:30 overwrite stylesheets/app.css 
+2013-07-31 18:35:30 identical stylesheets/foundation.css 
+2013-07-31 18:35:30 identical stylesheets/normalize.css 
+2013-07-31 18:35:40 identical stylesheets/app.css 
+2013-07-31 18:35:41 identical stylesheets/foundation.css 
+2013-07-31 18:35:41 identical stylesheets/normalize.css 
+2013-07-31 18:35:42 overwrite stylesheets/app.css 
+2013-07-31 18:35:43 identical stylesheets/foundation.css 
+2013-07-31 18:35:43 identical stylesheets/normalize.css 
+2013-08-01 15:15:26 overwrite stylesheets/app.css 
+2013-08-01 15:15:27     error sass/styles-svg.scss (Line 17 of sass/foundation/components/_svg.scss: Invalid CSS after "    r": expected "{", was "=50%  ;")
+2013-08-01 15:15:27    create stylesheets/styles-svg.css 
+2013-08-01 15:15:35    remove .sass-cache/ 
+2013-08-01 15:15:35    remove stylesheets/app.css 
+2013-08-01 15:15:35    remove stylesheets/foundation.css 
+2013-08-01 15:15:35    remove stylesheets/normalize.css 
+2013-08-01 15:15:35    remove stylesheets/styles-svg.css 
+2013-08-01 15:15:42    create stylesheets/app.css 
+2013-08-01 15:15:44    create stylesheets/foundation.css 
+2013-08-01 15:15:44    create stylesheets/normalize.css 
+2013-08-01 15:15:44     error sass/styles-svg.scss (Line 17 of sass/foundation/components/_svg.scss: Invalid CSS after "    r": expected "{", was "=50%  ;")
+2013-08-01 15:15:44    create stylesheets/styles-svg.css 
+2013-08-01 15:15:46     error sass/styles-svg.scss (Line 17 of sass/foundation/components/_svg.scss: Invalid CSS after "    r": expected "{", was "=50%  ;")
+2013-08-01 15:15:46 overwrite stylesheets/styles-svg.css 
+2013-08-01 15:16:16     error sass/styles-svg.scss (Line 2 of sass/foundation/components/_svg.scss: Undefined variable: "$page-background-2".)
+2013-08-01 15:16:16 overwrite stylesheets/styles-svg.css 
+2013-08-01 15:16:20     error sass/styles-svg.scss (Line 2 of sass/foundation/components/_svg.scss: Undefined variable: "$page-background-2".)
+2013-08-01 15:16:20 identical stylesheets/styles-svg.css 
+2013-08-01 15:16:20     error sass/styles-svg.scss (Line 2 of sass/foundation/components/_svg.scss: Undefined variable: "$page-background-2".)
+2013-08-01 15:16:20 identical stylesheets/styles-svg.css 
+2013-08-01 15:16:31 overwrite stylesheets/styles-svg.css 
+2013-08-01 15:24:39 overwrite stylesheets/styles-svg.css 
+2013-08-01 15:24:40 overwrite stylesheets/styles-svg.css 
+2013-08-01 15:24:48 overwrite stylesheets/styles-svg.css 
+2013-08-01 15:24:51 identical stylesheets/styles-svg.css 
+2013-08-01 15:24:52 identical stylesheets/styles-svg.css 
+2013-08-01 15:24:53 overwrite stylesheets/styles-svg.css 
+2013-08-01 15:25:08 overwrite stylesheets/styles-svg.css 
+2013-08-01 15:25:11 overwrite stylesheets/styles-svg.css 
+2013-08-01 15:25:14 overwrite stylesheets/styles-svg.css 
+2013-08-01 15:26:09 overwrite stylesheets/styles-svg.css 
+2013-08-01 15:26:45 overwrite stylesheets/styles-svg.css 
+2013-08-01 15:26:49 overwrite stylesheets/styles-svg.css 
+2013-08-01 15:27:06 overwrite stylesheets/styles-svg.css 
+2013-08-01 15:27:11 overwrite stylesheets/styles-svg.css 
+2013-08-01 15:27:14 overwrite stylesheets/styles-svg.css 
+2013-08-01 15:27:31     error sass/styles-svg.scss (Line 2 of sass/foundation/components/_svg.scss: Invalid CSS after "$page-background": expected ":", was "@mixin themes_s...")
+2013-08-01 15:27:31 overwrite stylesheets/styles-svg.css 
+2013-08-01 15:27:31     error sass/styles-svg.scss (Line 2 of sass/foundation/components/_svg.scss: Invalid CSS after "$page-background": expected ":", was "@mixin themes_s...")
+2013-08-01 15:27:31 identical stylesheets/styles-svg.css 
+2013-08-01 15:27:33     error sass/styles-svg.scss (Line 2 of sass/foundation/components/_svg.scss: Invalid CSS after "$page-background": expected ":", was "@mixin themes_s...")
+2013-08-01 15:27:33 identical stylesheets/styles-svg.css 
+2013-08-01 15:27:33     error sass/styles-svg.scss (Line 2 of sass/foundation/components/_svg.scss: Invalid CSS after "$page-background": expected ":", was "@mixin themes_s...")
+2013-08-01 15:27:33 identical stylesheets/styles-svg.css 
+2013-08-01 15:27:35 overwrite stylesheets/styles-svg.css 
+2013-08-01 15:28:19 overwrite stylesheets/styles-svg.css 
+2013-08-01 15:35:46 overwrite stylesheets/styles-svg.css 
+2013-08-01 15:35:47 overwrite stylesheets/styles-svg.css 
+2013-08-01 15:36:08 overwrite stylesheets/styles-svg.css 
+2013-08-01 15:39:52 overwrite stylesheets/styles-svg.css 
+2013-08-01 15:39:53 overwrite stylesheets/styles-svg.css 
+2013-08-01 15:40:03 overwrite stylesheets/styles-svg.css 
+2013-08-01 15:40:05 overwrite stylesheets/styles-svg.css 
+2013-08-01 15:41:06 overwrite stylesheets/styles-svg.css 
+2013-08-01 15:48:09 overwrite stylesheets/styles-svg.css 
+2013-08-01 15:53:10 overwrite stylesheets/styles-svg.css 
+2013-08-01 15:53:16 overwrite stylesheets/styles-svg.css 
+2013-08-01 15:53:22 overwrite stylesheets/styles-svg.css 
+2013-08-01 15:53:47 identical stylesheets/styles-svg.css 
+2013-08-01 15:53:47 identical stylesheets/styles-svg.css 
+2013-08-01 15:56:03 overwrite stylesheets/styles-svg.css 
+2013-08-01 15:56:07 overwrite stylesheets/styles-svg.css 
+2013-08-01 15:57:05 overwrite stylesheets/styles-svg.css 
+2013-08-01 15:57:17 overwrite stylesheets/styles-svg.css 
+2013-08-01 15:57:20 overwrite stylesheets/styles-svg.css 
+2013-08-01 15:57:23 overwrite stylesheets/styles-svg.css 
+2013-08-01 15:57:24 overwrite stylesheets/styles-svg.css 
+2013-08-01 15:57:51 overwrite stylesheets/styles-svg.css 
+2013-08-01 15:57:58 overwrite stylesheets/styles-svg.css 
+2013-08-01 15:58:00 overwrite stylesheets/styles-svg.css 
+2013-08-01 15:58:29 overwrite stylesheets/styles-svg.css 
+2013-08-01 15:58:31 overwrite stylesheets/styles-svg.css 
+2013-08-01 16:02:12     error sass/app.scss (Line 45 of sass/foundation/components/_page_themes.scss: Invalid CSS after "div.pageTheme ": expected "{", was "($page-backgrou...")
+2013-08-01 16:02:12 overwrite stylesheets/app.css 
+2013-08-01 16:02:13     error sass/app.scss (Line 45 of sass/foundation/components/_page_themes.scss: Invalid CSS after "div.pageTheme ": expected "{", was "($page-backgrou...")
+2013-08-01 16:02:13 identical stylesheets/app.css 
+2013-08-01 16:02:20 overwrite stylesheets/app.css 
+2013-08-01 16:02:23 overwrite stylesheets/app.css 
+2013-08-01 16:02:43 overwrite stylesheets/app.css 
+2013-08-01 16:18:24 overwrite stylesheets/app.css 
+2013-08-01 16:18:27 overwrite stylesheets/app.css 
+2013-08-01 16:18:30 overwrite stylesheets/app.css 
+2013-08-01 16:18:46 overwrite stylesheets/app.css 
+2013-08-01 16:18:48 overwrite stylesheets/app.css 
+2013-08-01 16:30:51 overwrite stylesheets/app.css 
+2013-08-01 16:30:53 overwrite stylesheets/app.css 
+2013-08-01 16:30:56 overwrite stylesheets/app.css 
+2013-08-01 16:30:57 overwrite stylesheets/app.css 
+2013-08-01 16:31:00 overwrite stylesheets/app.css 
+2013-08-01 16:32:11     error sass/app.scss (Line 36 of sass/foundation/components/_page_themes.scss: "transparent" is not a color for `darken')
+2013-08-01 16:32:11 overwrite stylesheets/app.css 
+2013-08-01 16:32:19     error sass/app.scss (Line 36 of sass/foundation/components/_page_themes.scss: "rgb" is not a color for `darken')
+2013-08-01 16:32:19 overwrite stylesheets/app.css 
+2013-08-01 16:32:21     error sass/app.scss (Line 53 of sass/foundation/components/_page_themes.scss: wrong number of arguments (0 for 3) for `rgb')
+2013-08-01 16:32:21 overwrite stylesheets/app.css 
+2013-08-01 16:32:23     error sass/app.scss (Line 53 of sass/foundation/components/_page_themes.scss: wrong number of arguments (1 for 3) for `rgb')
+2013-08-01 16:32:23 overwrite stylesheets/app.css 
+2013-08-01 16:32:26 overwrite stylesheets/app.css 
+2013-08-01 16:32:35     error sass/app.scss (Line 53 of sass/foundation/components/_page_themes.scss: wrong number of arguments (3 for 4) for `rgba')
+2013-08-01 16:32:35 overwrite stylesheets/app.css 
+2013-08-01 16:32:40 overwrite stylesheets/app.css 

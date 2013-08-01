@@ -1,0 +1,30 @@
+$page-background:#fff;
+@mixin themes_svg ($page-background:$page-background) {
+
+  path {
+    fill:$page-background;
+  }
+  rect {
+    fill: $page-background;
+    stroke:  $page-background;
+    stroke-width: 0
+  }
+  rect#el1 {
+    fill: $page-background;
+    stroke:  $page-background;
+    stroke-width: 0
+  }
+  circle {
+    fill: #c4920f;
+    stroke:  #c4920f;
+    stroke-width: 0;
+    r:50%  ;
+    fill-opacity:0.4;
+  }
+
+
+}
+
+
+  @include themes_svg;
+
