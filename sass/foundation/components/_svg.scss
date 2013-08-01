@@ -1,22 +1,29 @@
-$page-background:#fff;
-$page-background-light:#000;
-@mixin themes_svg ($page-background:$page-background,$page-background-light:$page-background) {
+$itembackground:#fff;
+$itembackground-light:#000;
+$svgground : #000;
+@mixin themes_svg ($svgground:$svgground,$itembackground:$itembackground,$itembackground-light:$itembackground) {
 
   path {
-    fill:$page-background;
+    fill:$itembackground;
+    fill-opacity:0.4;
   }
   path#clair {
-    fill:$page-background-light;
+    fill:$itembackground-light;
     fill-opacity:0.2;
   }
   rect {
-    fill: $page-background;
-    stroke:  $page-background;
+    fill: $svgground;
+    stroke:  $svgground;
     stroke-width: 0
   }
+  rect#bg{
+    fill:$svgground;
+    fill-opacity:0.9;
+
+  }
   rect#el1 {
-    fill: $page-background;
-    stroke:  $page-background;
+    fill: $itembackground;
+    stroke:  $itembackground;
     stroke-width: 0
   }
   circle {

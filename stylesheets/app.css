@@ -3751,15 +3751,15 @@ form.custom .custom.disabled {
   width: 100%;
   height: auto;
   display: block;
-  background: #333333;
+  background: gainsboro;
   font-size: 16px;
   margin: 0;
 }
 /* line 202, ../sass/foundation/components/_top-bar.scss */
 .top-bar-section .divider,
 .top-bar-section [role="separator"] {
-  border-bottom: solid 1px #4d4d4d;
-  border-top: solid 1px #1a1a1a;
+  border-bottom: solid 1px #f6f6f6;
+  border-top: solid 1px #c3c3c3;
   clear: both;
   height: 1px;
   width: 100%;
@@ -3773,11 +3773,11 @@ form.custom .custom.disabled {
   padding-left: 15px;
   font-size: 2em;
   font-weight: 100;
-  background: #333333;
+  background: gainsboro;
 }
 /* line 221, ../sass/foundation/components/_top-bar.scss */
 .top-bar-section ul li > a:hover {
-  background: #2b2b2b;
+  background: #d4d4d4;
 }
 /* line 224, ../sass/foundation/components/_top-bar.scss */
 .top-bar-section ul li > a.button {
@@ -3814,7 +3814,7 @@ form.custom .custom.disabled {
 }
 /* line 253, ../sass/foundation/components/_top-bar.scss */
 .top-bar-section ul li.active > a {
-  background: #2b2b2b;
+  background: #d4d4d4;
 }
 /* line 257, ../sass/foundation/components/_top-bar.scss */
 .top-bar-section .has-form {
@@ -3974,7 +3974,7 @@ form.custom .custom.disabled {
   }
   /* line 366, ../sass/foundation/components/_top-bar.scss */
   .top-bar-section li a:not(.button):hover {
-    background: black;
+    background: #909090;
   }
   /* line 371, ../sass/foundation/components/_top-bar.scss */
   .top-bar-section .has-dropdown > a {
@@ -4019,7 +4019,7 @@ form.custom .custom.disabled {
   }
   /* line 411, ../sass/foundation/components/_top-bar.scss */
   .top-bar-section .dropdown li a {
-    color: white;
+    color: black;
     line-height: 1;
     white-space: nowrap;
     padding: 7px 15px;
@@ -6070,12 +6070,16 @@ html, body {
 }
 
 /* line 66, ../sass/app.scss */
+#header .inHeader {
+  padding-top: 10%;
+}
+/* line 67, ../sass/app.scss */
 #header h2 {
   font-weight: 800;
   font-size: 2em;
   letter-spacing: -1px;
 }
-/* line 67, ../sass/app.scss */
+/* line 68, ../sass/app.scss */
 #header h2 strong {
   font-weight: 800;
   color: #000;

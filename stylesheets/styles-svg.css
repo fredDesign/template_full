@@ -1,29 +1,36 @@
-/* line 5, ../sass/foundation/components/_svg.scss */
+/* line 6, ../sass/foundation/components/_svg.scss */
 path {
   fill: white;
+  fill-opacity: 0.4;
 }
 
-/* line 8, ../sass/foundation/components/_svg.scss */
+/* line 10, ../sass/foundation/components/_svg.scss */
 path#clair {
   fill: white;
   fill-opacity: 0.2;
 }
 
-/* line 12, ../sass/foundation/components/_svg.scss */
+/* line 14, ../sass/foundation/components/_svg.scss */
 rect {
-  fill: white;
-  stroke: white;
+  fill: black;
+  stroke: black;
   stroke-width: 0;
 }
 
-/* line 17, ../sass/foundation/components/_svg.scss */
+/* line 19, ../sass/foundation/components/_svg.scss */
+rect#bg {
+  fill: black;
+  fill-opacity: 0.9;
+}
+
+/* line 24, ../sass/foundation/components/_svg.scss */
 rect#el1 {
   fill: white;
   stroke: white;
   stroke-width: 0;
 }
 
-/* line 22, ../sass/foundation/components/_svg.scss */
+/* line 29, ../sass/foundation/components/_svg.scss */
 circle {
   fill: #c4920f;
   stroke: #c4920f;
@@ -32,32 +39,39 @@ circle {
   fill-opacity: 0.4;
 }
 
-/* line 5, ../sass/foundation/components/_svg.scss */
+/* line 6, ../sass/foundation/components/_svg.scss */
 path {
-  fill: #dea718;
+  fill: #44aacc;
+  fill-opacity: 0.4;
 }
 
-/* line 8, ../sass/foundation/components/_svg.scss */
+/* line 10, ../sass/foundation/components/_svg.scss */
 path#clair {
-  fill: #ffd360;
+  fill: #66aadd;
   fill-opacity: 0.2;
 }
 
-/* line 12, ../sass/foundation/components/_svg.scss */
+/* line 14, ../sass/foundation/components/_svg.scss */
 rect {
-  fill: #dea718;
-  stroke: #dea718;
+  fill: #22ccff;
+  stroke: #22ccff;
   stroke-width: 0;
 }
 
-/* line 17, ../sass/foundation/components/_svg.scss */
+/* line 19, ../sass/foundation/components/_svg.scss */
+rect#bg {
+  fill: #22ccff;
+  fill-opacity: 0.9;
+}
+
+/* line 24, ../sass/foundation/components/_svg.scss */
 rect#el1 {
-  fill: #dea718;
-  stroke: #dea718;
+  fill: #44aacc;
+  stroke: #44aacc;
   stroke-width: 0;
 }
 
-/* line 22, ../sass/foundation/components/_svg.scss */
+/* line 29, ../sass/foundation/components/_svg.scss */
 circle {
   fill: #c4920f;
   stroke: #c4920f;

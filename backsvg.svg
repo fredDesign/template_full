@@ -14,28 +14,28 @@
                    ]]></style>
 
 
+            <rect id="bg" x="0" y="0" width="100%" height="100%"/>
 
-
-
-    <path d="M M 0,0 L 0,0 0,0 L 0,0" style=";fill-opacity:0.5;stroke:white;stroke-width:0px;stroke-miterlimit:40;">
+    <path d="M M 0,0 L 0,0 0,0 L 0,0" style=";stroke:white;stroke-width:0px;stroke-miterlimit:40;">
             <animate attributeName="d" attributeType="XML"
-            from="M -500,-150 L 0,0  -400,0 L 390,800"
-            to="M 000,150 L 10,150  1600,0 L 390,180"
+            from="M 000,L 0,0  -400,0 L 390,800"
+            to="M -500,150 L 10,150  1600,0 L 390,180"
             begin="8" dur="20s"
             repeatCount="indefinite"/>
 
     </path>
+th>
 
-     <path d="M M 0,0 L 0,0 0,0 L 0,0" style="fill-opacity:0.5;stroke:white;stroke-width:0px;stroke-miterlimit:40;">
+     <path d="M M 0,0 L 0,0 0,0 L 0,0" style="stroke:white;stroke-width:0px;stroke-miterlimit:40;">
             <animate attributeName="d" attributeType="XML"
             from="M -500,-150 L 0,0  -400,0 L 390,800"
-            to="M 000,150 L 10,150  1600,0 L 390,180"
-            begin="4" dur="24s"
+            to="M -500,150 L 10,150  1600,0 L 390,180"
+            begin="0" dur="24s"
             repeatCount="indefinite"/>
 
     </path>
 
-    <path d="M M 0,0 L 0,0 0,0 L 0,0" style="fill-opacity:0.5;stroke:white;stroke-width:0px;stroke-miterlimit:40;">
+    <path d="M M 0,0 L 0,0 0,0 L 0,0" style="stroke:white;stroke-width:0px;stroke-miterlimit:40;">
             <animate attributeName="d" attributeType="XML"
             from="M 0,400 L 0,-100  100,0 L 500,180"
             to="M 0,0 L 0,0  -400,0 L 390,800"
