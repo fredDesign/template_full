@@ -44,6 +44,24 @@
 
     </path>
 
+    <path d="M M 0,0 L 0,0 0,0 L 0,0" style="fill-opacity:0.5;stroke:white;stroke-width:0px;stroke-miterlimit:40;">
+            <animate attributeName="d" attributeType="XML"
+            from="M 0,400 L 0,-100  800,0 L 500,180"
+            to="M 0,0 L 0,0  -400,0 L 390,800"
+            begin="0" dur="30s"
+            repeatCount="indefinite"/>
+
+    </path>
+
+        <path id="clair" d="M M 0,0 L 0,0 0,0 L 0,0" style="stroke:white;stroke-width:0px;stroke-miterlimit:40;">
+                <animate attributeName="d" attributeType="XML"
+                from="M 800,0 L 0,-10 00,400 L 0,800"
+                to="M 0,0 L 0,0  -400,0 L 390,800"
+                begin="0" dur="50s"
+                repeatCount="indefinite"/>
+
+        </path>
+
 
 
 

@@ -782,3 +782,198 @@ Load paths:
 2013-08-01 16:32:35     error sass/app.scss (Line 53 of sass/foundation/components/_page_themes.scss: wrong number of arguments (3 for 4) for `rgba')
 2013-08-01 16:32:35 overwrite stylesheets/app.css 
 2013-08-01 16:32:40 overwrite stylesheets/app.css 
+2013-08-01 17:24:20 overwrite stylesheets/app.css 
+2013-08-01 17:38:17 overwrite stylesheets/app.css 
+2013-08-01 17:38:22 overwrite stylesheets/app.css 
+2013-08-01 17:38:25 overwrite stylesheets/app.css 
+2013-08-01 17:38:26     error sass/app.scss (Line 60: Colors must have either three or six digits: '#00')
+2013-08-01 17:38:26 overwrite stylesheets/app.css 
+2013-08-01 17:38:29 overwrite stylesheets/app.css 
+2013-08-01 17:38:35 identical stylesheets/app.css 
+2013-08-01 17:38:52 overwrite stylesheets/app.css 
+2013-08-01 17:39:30 overwrite stylesheets/app.css 
+2013-08-01 17:39:39 overwrite stylesheets/app.css 
+2013-08-01 17:39:45 overwrite stylesheets/app.css 
+2013-08-01 17:40:12 identical stylesheets/app.css 
+2013-08-01 17:40:15 overwrite stylesheets/app.css 
+2013-08-01 17:40:29 overwrite stylesheets/app.css 
+2013-08-01 17:40:37 overwrite stylesheets/app.css 
+2013-08-01 17:40:50 overwrite stylesheets/app.css 
+2013-08-01 17:41:47 overwrite stylesheets/app.css 
+2013-08-01 17:41:51 overwrite stylesheets/app.css 
+2013-08-01 17:43:17 overwrite stylesheets/app.css 
+2013-08-01 17:43:24 overwrite stylesheets/app.css 
+2013-08-01 17:44:41 identical stylesheets/app.css 
+2013-08-01 17:44:45 identical stylesheets/app.css 
+2013-08-01 17:44:49 overwrite stylesheets/app.css 
+2013-08-01 17:45:02 overwrite stylesheets/app.css 
+2013-08-01 17:54:59 overwrite stylesheets/styles-svg.css 
+2013-08-01 17:55:02 overwrite stylesheets/styles-svg.css 
+2013-08-01 17:55:04 overwrite stylesheets/styles-svg.css 
+2013-08-01 17:55:05 overwrite stylesheets/styles-svg.css 
+2013-08-01 17:55:28     error sass/styles-svg.scss (Line 8 of sass/foundation/components/_svg.scss: Invalid CSS after "    darken": expected "{", was "($page-background,")
+2013-08-01 17:55:28 overwrite stylesheets/styles-svg.css 
+2013-08-01 17:55:28     error sass/styles-svg.scss (Line 8 of sass/foundation/components/_svg.scss: Invalid CSS after "    darken": expected "{", was "($page-background,")
+2013-08-01 17:55:28 identical stylesheets/styles-svg.css 
+2013-08-01 17:55:37     error sass/styles-svg.scss (Line 8 of sass/foundation/components/_svg.scss: Invalid CSS after "    darken": expected "{", was "($page-backgrou...")
+2013-08-01 17:55:37 overwrite stylesheets/styles-svg.css 
+2013-08-01 17:55:37     error sass/styles-svg.scss (Line 8 of sass/foundation/components/_svg.scss: Invalid CSS after "    darken": expected "{", was "($page-backgrou...")
+2013-08-01 17:55:37 identical stylesheets/styles-svg.css 
+2013-08-01 17:55:38     error sass/styles-svg.scss (Line 8 of sass/foundation/components/_svg.scss: Invalid CSS after "    darken": expected "{", was "($page-backgrou...")
+2013-08-01 17:55:38 identical stylesheets/styles-svg.css 
+2013-08-01 17:55:38     error sass/styles-svg.scss (Line 8 of sass/foundation/components/_svg.scss: Invalid CSS after "    darken": expected "{", was "($page-backgrou...")
+2013-08-01 17:55:38 identical stylesheets/styles-svg.css 
+2013-08-01 17:55:39     error sass/styles-svg.scss (Line 8 of sass/foundation/components/_svg.scss: Invalid CSS after "    darken": expected "{", was "($page-backgrou...")
+2013-08-01 17:55:39 identical stylesheets/styles-svg.css 
+2013-08-01 17:55:39     error sass/styles-svg.scss (Line 8 of sass/foundation/components/_svg.scss: Invalid CSS after "    darken": expected "{", was "($page-backgrou...")
+2013-08-01 17:55:39 identical stylesheets/styles-svg.css 
+2013-08-01 17:55:44     error sass/styles-svg.scss (Line 8 of sass/foundation/components/_svg.scss: Invalid CSS after "    darken": expected "{", was "($page-backgrou...")
+2013-08-01 17:55:44 identical stylesheets/styles-svg.css 
+2013-08-01 17:55:44     error sass/styles-svg.scss (Line 8 of sass/foundation/components/_svg.scss: Invalid CSS after "    darken": expected "{", was "($page-backgrou...")
+2013-08-01 17:55:44 identical stylesheets/styles-svg.css 
+2013-08-01 17:56:29 identical stylesheets/app.css 
+2013-08-01 17:56:29     error sass/styles-svg.scss (Line 8 of sass/foundation/components/_svg.scss: Invalid CSS after "    darken": expected "{", was "($page-backgrou...")
+2013-08-01 17:56:29 identical stylesheets/styles-svg.css 
+2013-08-01 17:56:29     error sass/styles-svg.scss (Line 8 of sass/foundation/components/_svg.scss: Invalid CSS after "    darken": expected "{", was "($page-backgrou...")
+2013-08-01 17:56:29 identical stylesheets/styles-svg.css 
+2013-08-01 17:56:50 identical stylesheets/app.css 
+2013-08-01 17:56:50     error sass/styles-svg.scss (Line 8 of sass/foundation/components/_svg.scss: Invalid CSS after "    darken": expected "{", was "($page-backgrou...")
+2013-08-01 17:56:50 identical stylesheets/styles-svg.css 
+2013-08-01 17:56:51     error sass/styles-svg.scss (Line 8 of sass/foundation/components/_svg.scss: Invalid CSS after "    darken": expected "{", was "($page-backgrou...")
+2013-08-01 17:56:51 identical stylesheets/styles-svg.css 
+2013-08-01 17:56:55 identical stylesheets/app.css 
+2013-08-01 17:56:55     error sass/styles-svg.scss (Line 8 of sass/foundation/components/_svg.scss: Invalid CSS after "    darken": expected "{", was "($page-backgrou...")
+2013-08-01 17:56:55 identical stylesheets/styles-svg.css 
+2013-08-01 17:56:55     error sass/styles-svg.scss (Line 8 of sass/foundation/components/_svg.scss: Invalid CSS after "    darken": expected "{", was "($page-backgrou...")
+2013-08-01 17:56:55 identical stylesheets/styles-svg.css 
+2013-08-01 17:56:55     error sass/styles-svg.scss (Line 8 of sass/foundation/components/_svg.scss: Invalid CSS after "    darken": expected "{", was "($page-backgrou...")
+2013-08-01 17:56:55 identical stylesheets/styles-svg.css 
+2013-08-01 17:56:55     error sass/styles-svg.scss (Line 8 of sass/foundation/components/_svg.scss: Invalid CSS after "    darken": expected "{", was "($page-backgrou...")
+2013-08-01 17:56:55 identical stylesheets/styles-svg.css 
+2013-08-01 17:57:15     error sass/styles-svg.scss (Line 8 of sass/foundation/components/_svg.scss: Invalid CSS after "    darken": expected "{", was "($page-backgrou...")
+2013-08-01 17:57:15 identical stylesheets/styles-svg.css 
+2013-08-01 17:57:16     error sass/styles-svg.scss (Line 8 of sass/foundation/components/_svg.scss: Invalid CSS after "    darken": expected "{", was "($page-backgrou...")
+2013-08-01 17:57:16 identical stylesheets/styles-svg.css 
+2013-08-01 17:57:23     error sass/styles-svg.scss (Line 8 of sass/foundation/components/_svg.scss: Invalid CSS after "    darken": expected "{", was "($page-backgrou...")
+2013-08-01 17:57:23 identical stylesheets/styles-svg.css 
+2013-08-01 17:57:26     error sass/styles-svg.scss (Line 8 of sass/foundation/components/_svg.scss: Invalid CSS after "    darken": expected "{", was "($page-backgrou...")
+2013-08-01 17:57:26 identical stylesheets/styles-svg.css 
+2013-08-01 17:57:32     error sass/styles-svg.scss (Line 8 of sass/foundation/components/_svg.scss: Invalid CSS after "    darken": expected "{", was "($page-backgrou...")
+2013-08-01 17:57:32 identical stylesheets/styles-svg.css 
+2013-08-01 17:57:33     error sass/styles-svg.scss (Line 8 of sass/foundation/components/_svg.scss: Invalid CSS after "    darken": expected "{", was "($page-backgrou...")
+2013-08-01 17:57:33 identical stylesheets/styles-svg.css 
+2013-08-01 17:57:43 overwrite stylesheets/app.css 
+2013-08-01 17:57:43     error sass/styles-svg.scss (Line 8 of sass/foundation/components/_svg.scss: Invalid CSS after "    darken": expected "{", was "($page-backgrou...")
+2013-08-01 17:57:43 identical stylesheets/styles-svg.css 
+2013-08-01 17:57:43     error sass/styles-svg.scss (Line 8 of sass/foundation/components/_svg.scss: Invalid CSS after "    darken": expected "{", was "($page-backgrou...")
+2013-08-01 17:57:43 identical stylesheets/styles-svg.css 
+2013-08-01 17:57:45 overwrite stylesheets/app.css 
+2013-08-01 17:57:45     error sass/styles-svg.scss (Line 8 of sass/foundation/components/_svg.scss: Invalid CSS after "    darken": expected "{", was "($page-backgrou...")
+2013-08-01 17:57:45 identical stylesheets/styles-svg.css 
+2013-08-01 17:57:45     error sass/styles-svg.scss (Line 8 of sass/foundation/components/_svg.scss: Invalid CSS after "    darken": expected "{", was "($page-backgrou...")
+2013-08-01 17:57:45 identical stylesheets/styles-svg.css 
+2013-08-01 17:57:56 overwrite stylesheets/styles-svg.css 
+2013-08-01 17:58:07 overwrite stylesheets/styles-svg.css 
+2013-08-01 17:58:26 overwrite stylesheets/styles-svg.css 
+2013-08-01 17:58:29 overwrite stylesheets/styles-svg.css 
+2013-08-01 17:58:37     error sass/styles-svg.scss (Line 8 of sass/foundation/components/_svg.scss: Invalid CSS after "    darken": expected "{", was "($page-backgrou...")
+2013-08-01 17:58:37 overwrite stylesheets/styles-svg.css 
+2013-08-01 17:58:37     error sass/styles-svg.scss (Line 8 of sass/foundation/components/_svg.scss: Invalid CSS after "    darken": expected "{", was "($page-backgrou...")
+2013-08-01 17:58:37 identical stylesheets/styles-svg.css 
+2013-08-01 17:58:43     error sass/styles-svg.scss (Line 8 of sass/foundation/components/_svg.scss: Invalid CSS after "    darken": expected "{", was "(dea718,80%);")
+2013-08-01 17:58:43 overwrite stylesheets/styles-svg.css 
+2013-08-01 17:58:43     error sass/styles-svg.scss (Line 8 of sass/foundation/components/_svg.scss: Invalid CSS after "    darken": expected "{", was "(dea718,80%);")
+2013-08-01 17:58:43 identical stylesheets/styles-svg.css 
+2013-08-01 17:58:45     error sass/styles-svg.scss (Line 8 of sass/foundation/components/_svg.scss: Invalid CSS after "    darken": expected "{", was "(#dea718,80%);")
+2013-08-01 17:58:45 overwrite stylesheets/styles-svg.css 
+2013-08-01 17:58:45     error sass/styles-svg.scss (Line 8 of sass/foundation/components/_svg.scss: Invalid CSS after "    darken": expected "{", was "(#dea718,80%);")
+2013-08-01 17:58:45 identical stylesheets/styles-svg.css 
+2013-08-01 17:58:48     error sass/styles-svg.scss (Line 8 of sass/foundation/components/_svg.scss: Invalid CSS after "    darken": expected "{", was "(""#dea718,80%);")
+2013-08-01 17:58:48 overwrite stylesheets/styles-svg.css 
+2013-08-01 17:58:48     error sass/styles-svg.scss (Line 8 of sass/foundation/components/_svg.scss: Invalid CSS after "    darken": expected "{", was "(""#dea718,80%);")
+2013-08-01 17:58:48 identical stylesheets/styles-svg.css 
+2013-08-01 17:58:52     error sass/styles-svg.scss (Line 8 of sass/foundation/components/_svg.scss: Invalid CSS after "    darken": expected "{", was "("#dea718",80%);")
+2013-08-01 17:58:52 overwrite stylesheets/styles-svg.css 
+2013-08-01 17:58:52     error sass/styles-svg.scss (Line 8 of sass/foundation/components/_svg.scss: Invalid CSS after "    darken": expected "{", was "("#dea718",80%);")
+2013-08-01 17:58:52 identical stylesheets/styles-svg.css 
+2013-08-01 17:59:17     error sass/styles-svg.scss (Line 8 of sass/foundation/components/_svg.scss: Invalid CSS after "    darken": expected "{", was "("#dea718",50%);")
+2013-08-01 17:59:17 overwrite stylesheets/styles-svg.css 
+2013-08-01 17:59:17     error sass/styles-svg.scss (Line 8 of sass/foundation/components/_svg.scss: Invalid CSS after "    darken": expected "{", was "("#dea718",50%);")
+2013-08-01 17:59:17 identical stylesheets/styles-svg.css 
+2013-08-01 17:59:25     error sass/styles-svg.scss (Line 8 of sass/foundation/components/_svg.scss: Invalid CSS after "    darken": expected "{", was "(#dea718,50%);")
+2013-08-01 17:59:25 overwrite stylesheets/styles-svg.css 
+2013-08-01 17:59:25     error sass/styles-svg.scss (Line 8 of sass/foundation/components/_svg.scss: Invalid CSS after "    darken": expected "{", was "(#dea718,50%);")
+2013-08-01 17:59:25 identical stylesheets/styles-svg.css 
+2013-08-01 17:59:29     error sass/styles-svg.scss (Line 8 of sass/foundation/components/_svg.scss: Invalid CSS after "    darken": expected "{", was "("#dea718",50%);")
+2013-08-01 17:59:29 overwrite stylesheets/styles-svg.css 
+2013-08-01 17:59:29     error sass/styles-svg.scss (Line 8 of sass/foundation/components/_svg.scss: Invalid CSS after "    darken": expected "{", was "("#dea718",50%);")
+2013-08-01 17:59:29 identical stylesheets/styles-svg.css 
+2013-08-01 18:01:53     error sass/styles-svg.scss (Line 8 of sass/foundation/components/_svg.scss: Invalid CSS after "    darken": expected "{", was "("#dea718",50%)...")
+2013-08-01 18:01:53 overwrite stylesheets/styles-svg.css 
+2013-08-01 18:01:53     error sass/styles-svg.scss (Line 8 of sass/foundation/components/_svg.scss: Invalid CSS after "    darken": expected "{", was "("#dea718",50%)...")
+2013-08-01 18:01:53 identical stylesheets/styles-svg.css 
+2013-08-01 18:01:57     error sass/styles-svg.scss (Line 8 of sass/foundation/components/_svg.scss: Invalid CSS after "    darken": expected "{", was "("",50%); darke...")
+2013-08-01 18:01:57 overwrite stylesheets/styles-svg.css 
+2013-08-01 18:01:57     error sass/styles-svg.scss (Line 8 of sass/foundation/components/_svg.scss: Invalid CSS after "    darken": expected "{", was "("",50%); darke...")
+2013-08-01 18:01:57 identical stylesheets/styles-svg.css 
+2013-08-01 18:02:01     error sass/styles-svg.scss (Line 8 of sass/foundation/components/_svg.scss: Invalid CSS after "    darken": expected "{", was "("",50%); darke...")
+2013-08-01 18:02:01 identical stylesheets/styles-svg.css 
+2013-08-01 18:02:01     error sass/styles-svg.scss (Line 8 of sass/foundation/components/_svg.scss: Invalid CSS after "    darken": expected "{", was "("",50%); darke...")
+2013-08-01 18:02:01 identical stylesheets/styles-svg.css 
+2013-08-01 18:02:04     error sass/styles-svg.scss (Line 8 of sass/foundation/components/_svg.scss: Invalid CSS after "     darken": expected "{", was "(#dea718, 40%)")
+2013-08-01 18:02:04 overwrite stylesheets/styles-svg.css 
+2013-08-01 18:02:04     error sass/styles-svg.scss (Line 8 of sass/foundation/components/_svg.scss: Invalid CSS after "     darken": expected "{", was "(#dea718, 40%)")
+2013-08-01 18:02:04 identical stylesheets/styles-svg.css 
+2013-08-01 18:02:07     error sass/styles-svg.scss (Line 8 of sass/foundation/components/_svg.scss: Invalid CSS after "     darken": expected "{", was "(''#dea718, 40%)")
+2013-08-01 18:02:07 overwrite stylesheets/styles-svg.css 
+2013-08-01 18:02:07     error sass/styles-svg.scss (Line 8 of sass/foundation/components/_svg.scss: Invalid CSS after "     darken": expected "{", was "(''#dea718, 40%)")
+2013-08-01 18:02:07 identical stylesheets/styles-svg.css 
+2013-08-01 18:02:10     error sass/styles-svg.scss (Line 8 of sass/foundation/components/_svg.scss: Invalid CSS after "     darken": expected "{", was "('#dea718', 40%)")
+2013-08-01 18:02:10 overwrite stylesheets/styles-svg.css 
+2013-08-01 18:02:10     error sass/styles-svg.scss (Line 8 of sass/foundation/components/_svg.scss: Invalid CSS after "     darken": expected "{", was "('#dea718', 40%)")
+2013-08-01 18:02:10 identical stylesheets/styles-svg.css 
+2013-08-01 18:02:30     error sass/styles-svg.scss (Line 8 of sass/foundation/components/_svg.scss: Invalid CSS after "     darken": expected "{", was "($page-backgrou...")
+2013-08-01 18:02:30 overwrite stylesheets/styles-svg.css 
+2013-08-01 18:02:30     error sass/styles-svg.scss (Line 8 of sass/foundation/components/_svg.scss: Invalid CSS after "     darken": expected "{", was "($page-backgrou...")
+2013-08-01 18:02:30 identical stylesheets/styles-svg.css 
+2013-08-01 18:02:36     error sass/styles-svg.scss (Line 8 of sass/foundation/components/_svg.scss: Invalid CSS after "     darken": expected "{", was "(#)")
+2013-08-01 18:02:36 overwrite stylesheets/styles-svg.css 
+2013-08-01 18:02:36     error sass/styles-svg.scss (Line 8 of sass/foundation/components/_svg.scss: Invalid CSS after "     darken": expected "{", was "(#)")
+2013-08-01 18:02:36 identical stylesheets/styles-svg.css 
+2013-08-01 18:02:36     error sass/styles-svg.scss (Line 8 of sass/foundation/components/_svg.scss: Invalid CSS after "     darken": expected "{", was "(#)")
+2013-08-01 18:02:36 identical stylesheets/styles-svg.css 
+2013-08-01 18:02:36     error sass/styles-svg.scss (Line 8 of sass/foundation/components/_svg.scss: Invalid CSS after "     darken": expected "{", was "(#)")
+2013-08-01 18:02:36 identical stylesheets/styles-svg.css 
+2013-08-01 18:02:37     error sass/styles-svg.scss (Line 8 of sass/foundation/components/_svg.scss: Invalid CSS after "     darken": expected "{", was "(#fff)")
+2013-08-01 18:02:37 overwrite stylesheets/styles-svg.css 
+2013-08-01 18:02:37     error sass/styles-svg.scss (Line 8 of sass/foundation/components/_svg.scss: Invalid CSS after "     darken": expected "{", was "(#fff)")
+2013-08-01 18:02:37 identical stylesheets/styles-svg.css 
+2013-08-01 18:02:42 overwrite stylesheets/styles-svg.css 
+2013-08-01 18:02:53 identical stylesheets/styles-svg.css 
+2013-08-01 18:02:53 identical stylesheets/styles-svg.css 
+2013-08-01 18:02:56 identical stylesheets/styles-svg.css 
+2013-08-01 18:02:57 identical stylesheets/styles-svg.css 
+2013-08-01 18:03:03 overwrite stylesheets/styles-svg.css 
+2013-08-01 18:03:12 identical stylesheets/styles-svg.css 
+2013-08-01 18:03:12 identical stylesheets/styles-svg.css 
+2013-08-01 18:03:16 identical stylesheets/styles-svg.css 
+2013-08-01 18:03:16 identical stylesheets/styles-svg.css 
+2013-08-01 18:03:33 overwrite stylesheets/styles-svg.css 
+2013-08-01 18:03:43 overwrite stylesheets/styles-svg.css 
+2013-08-01 18:06:28 identical stylesheets/styles-svg.css 
+2013-08-01 18:06:42 overwrite stylesheets/styles-svg.css 
+2013-08-01 18:07:02 overwrite stylesheets/styles-svg.css 
+2013-08-01 18:07:11 overwrite stylesheets/styles-svg.css 
+2013-08-01 18:07:18 overwrite stylesheets/styles-svg.css 
+2013-08-01 18:07:31 overwrite stylesheets/styles-svg.css 
+2013-08-01 18:08:48 identical stylesheets/styles-svg.css 
+2013-08-01 18:08:48 identical stylesheets/styles-svg.css 
+2013-08-01 18:08:56 overwrite stylesheets/styles-svg.css 
+2013-08-01 18:09:10 overwrite stylesheets/styles-svg.css 
+2013-08-01 18:09:15 overwrite stylesheets/styles-svg.css 
+2013-08-01 18:09:19 overwrite stylesheets/styles-svg.css 
+2013-08-01 18:09:29 identical stylesheets/styles-svg.css 
+2013-08-01 18:09:35 overwrite stylesheets/styles-svg.css 
+2013-08-01 18:10:09 overwrite stylesheets/styles-svg.css 
+2013-08-01 18:10:29 overwrite stylesheets/styles-svg.css 
+2013-08-01 18:10:42 overwrite stylesheets/styles-svg.css 

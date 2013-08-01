@@ -57,5 +57,13 @@
 }
 
 .footer {
-  @include themes_constructor(#fff);
+  @include themes_constructor(#000);
+  color:#fff;
+  h1, h2, h3, h4, h5, h6 {color: #ffffff}
+}
+
+#header {
+        h2 {font-weight:800;font-size:2em;letter-spacing: -1px;
+        strong {font-weight:800;color:#000}
+        }
 }

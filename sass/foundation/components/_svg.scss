@@ -1,8 +1,13 @@
 $page-background:#fff;
-@mixin themes_svg ($page-background:$page-background) {
+$page-background-light:#000;
+@mixin themes_svg ($page-background:$page-background,$page-background-light:$page-background) {
 
   path {
     fill:$page-background;
+  }
+  path#clair {
+    fill:$page-background-light;
+    fill-opacity:0.2;
   }
   rect {
     fill: $page-background;
