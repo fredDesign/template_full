@@ -1,0 +1,65 @@
+/* line 8, ../sass/foundation/components/_svg.scss */
+path {
+  fill: #ffd360;
+  fill-opacity: 0.4;
+}
+
+/* line 12, ../sass/foundation/components/_svg.scss */
+path#clair {
+  fill: black;
+  fill-opacity: 0.2;
+}
+
+/* line 16, ../sass/foundation/components/_svg.scss */
+rect {
+  fill: #dea718;
+  stroke: #dea718;
+  stroke-width: 0;
+}
+
+/* line 21, ../sass/foundation/components/_svg.scss */
+rect#bg {
+  fill: #dea718;
+  fill-opacity: 0.9;
+}
+
+/* line 26, ../sass/foundation/components/_svg.scss */
+rect#el1 {
+  fill: #ffd360;
+  stroke: #ffd360;
+  stroke-width: 0;
+}
+
+/* line 31, ../sass/foundation/components/_svg.scss */
+circle {
+  fill: #c4920f;
+  stroke: #c4920f;
+  stroke-width: 0;
+  r: 50%;
+  fill-opacity: 0.4;
+}
+
+/* line 40, ../sass/foundation/components/_svg.scss */
+#logo rect {
+  fill: #fffef9;
+}
+/* line 43, ../sass/foundation/components/_svg.scss */
+#logo path {
+  fill: #fffdf9;
+  fill-opacity: 0.8;
+}
+/* line 47, ../sass/foundation/components/_svg.scss */
+#logo path#body {
+  fill: white;
+  fill-opacity: 0.9;
+}
+/* line 51, ../sass/foundation/components/_svg.scss */
+#logo path#head {
+  fill: #fffdf9;
+  fill-opacity: 0.8;
+}
+/* line 55, ../sass/foundation/components/_svg.scss */
+#logo path#socle {
+  fill: black;
+  fill-opacity: 0.8;
+}
