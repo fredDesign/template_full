@@ -1,8 +1,10 @@
 $itembackground:#fff;
 $itembackground-light:#000;
 $svgground : #000;
-@mixin themes_svg ($svgground:$svgground,$itembackground:$itembackground,$itembackground-light:$itembackground) {
 
+
+@mixin themes_svg ($svgground:$svgground,$itembackground:$itembackground,$itembackground-light:$itembackground-light) {
+  $itembackgroundlighten:lighten($itembackground,30%)  ;
   path {
     fill:$itembackground;
     fill-opacity:0.4;
@@ -34,9 +36,32 @@ $svgground : #000;
     fill-opacity:0.4;
   }
 
+  #logo {
+    rect {
+    fill:  adjust-hue($itembackgroundlighten,5deg)
+    }
+    path {
+         fill:lighten($itembackground,30%);
+         fill-opacity:0.8;
+       }
+    path#body {
+         fill:lighten($itembackground,95%);
+         fill-opacity:0.9;
+       }
+    path#head {
+         fill:lighten($itembackground,30%);
+         fill-opacity:0.8;
+       }
+    path#socle {
+      fill:darken($svgground,50%);
+      fill-opacity:0.8;
+    }
+
+
+  }
 
 }
 
 
-  @include themes_svg;
+
 

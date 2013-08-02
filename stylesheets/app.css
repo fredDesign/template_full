@@ -3605,7 +3605,7 @@ form.custom .custom.disabled {
 /* line 49, ../sass/foundation/components/_top-bar.scss */
 .contain-to-grid {
   width: 100%;
-  background: #f9bc21;
+  background: #22ccff;
 }
 
 /* line 55, ../sass/foundation/components/_top-bar.scss */
@@ -3620,10 +3620,10 @@ form.custom .custom.disabled {
 /* line 63, ../sass/foundation/components/_top-bar.scss */
 .top-bar {
   overflow: hidden;
-  height: 45px;
-  line-height: 45px;
+  height: 6em;
+  line-height: 6em;
   position: relative;
-  background: #f9bc21;
+  background: #22ccff;
   margin-bottom: 1.875em;
 }
 /* line 72, ../sass/foundation/components/_top-bar.scss */
@@ -3656,13 +3656,13 @@ form.custom .custom.disabled {
 }
 /* line 89, ../sass/foundation/components/_top-bar.scss */
 .top-bar .name {
-  height: 45px;
+  height: 6em;
   margin: 0;
   font-size: 16px;
 }
 /* line 94, ../sass/foundation/components/_top-bar.scss */
 .top-bar .name h1 {
-  line-height: 45px;
+  line-height: 6em;
   font-size: 1.0625em;
   margin: 0;
 }
@@ -3672,7 +3672,7 @@ form.custom .custom.disabled {
   color: white;
   width: 50%;
   display: block;
-  padding: 0 15px;
+  padding: 0 2em;
 }
 /* line 109, ../sass/foundation/components/_top-bar.scss */
 .top-bar .toggle-topbar {
@@ -3688,13 +3688,13 @@ form.custom .custom.disabled {
   font-weight: bold;
   position: relative;
   display: block;
-  padding: 0 15px;
-  height: 45px;
-  line-height: 45px;
+  padding: 0 2em;
+  height: 6em;
+  line-height: 6em;
 }
 /* line 127, ../sass/foundation/components/_top-bar.scss */
 .top-bar .toggle-topbar.menu-icon {
-  right: 15px;
+  right: 2em;
   top: 50%;
   margin-top: -16px;
   padding-left: 40px;
@@ -3725,7 +3725,7 @@ form.custom .custom.disabled {
 }
 /* line 165, ../sass/foundation/components/_top-bar.scss */
 .top-bar.expanded .title-area {
-  background: #f9bc21;
+  background: #22ccff;
 }
 /* line 168, ../sass/foundation/components/_top-bar.scss */
 .top-bar.expanded .toggle-topbar a {
@@ -3751,15 +3751,15 @@ form.custom .custom.disabled {
   width: 100%;
   height: auto;
   display: block;
-  background: gainsboro;
+  background: #44aacc;
   font-size: 16px;
   margin: 0;
 }
 /* line 202, ../sass/foundation/components/_top-bar.scss */
 .top-bar-section .divider,
 .top-bar-section [role="separator"] {
-  border-bottom: solid 1px #f6f6f6;
-  border-top: solid 1px #c3c3c3;
+  border-bottom: solid 1px #6cbcd7;
+  border-top: solid 1px #2f8eae;
   clear: both;
   height: 1px;
   width: 100%;
@@ -3770,14 +3770,14 @@ form.custom .custom.disabled {
   width: 100%;
   color: white;
   padding: 12px 0 12px 0;
-  padding-left: 15px;
+  padding-left: 2em;
   font-size: 2em;
   font-weight: 100;
-  background: gainsboro;
+  background: #44aacc;
 }
 /* line 221, ../sass/foundation/components/_top-bar.scss */
 .top-bar-section ul li > a:hover {
-  background: #d4d4d4;
+  background: #38a5c9;
 }
 /* line 224, ../sass/foundation/components/_top-bar.scss */
 .top-bar-section ul li > a.button {
@@ -3814,11 +3814,11 @@ form.custom .custom.disabled {
 }
 /* line 253, ../sass/foundation/components/_top-bar.scss */
 .top-bar-section ul li.active > a {
-  background: #d4d4d4;
+  background: #38a5c9;
 }
 /* line 257, ../sass/foundation/components/_top-bar.scss */
 .top-bar-section .has-form {
-  padding: 15px;
+  padding: 2em;
 }
 /* line 260, ../sass/foundation/components/_top-bar.scss */
 .top-bar-section .has-dropdown {
@@ -3833,7 +3833,7 @@ form.custom .custom.disabled {
   border: inset 5px;
   border-color: transparent transparent transparent rgba(255, 255, 255, 0.5);
   border-left-style: solid;
-  margin-right: 15px;
+  margin-right: 2em;
   margin-top: -4.5px;
   position: absolute;
   top: 22px;
@@ -3862,7 +3862,7 @@ form.custom .custom.disabled {
 /* line 290, ../sass/foundation/components/_top-bar.scss */
 .top-bar-section .dropdown li a {
   font-weight: normal;
-  padding: 8px 15px;
+  padding: 8px 2em;
 }
 /* line 295, ../sass/foundation/components/_top-bar.scss */
 .top-bar-section .dropdown li.title h5 {
@@ -3871,12 +3871,12 @@ form.custom .custom.disabled {
 /* line 296, ../sass/foundation/components/_top-bar.scss */
 .top-bar-section .dropdown li.title h5 a {
   color: white;
-  line-height: 22.5px;
+  line-height: 3em;
   display: block;
 }
 /* line 304, ../sass/foundation/components/_top-bar.scss */
 .top-bar-section .dropdown label {
-  padding: 8px 15px 2px;
+  padding: 8px 2em 2px;
   margin-bottom: 0;
   text-transform: uppercase;
   color: #555555;
@@ -3898,7 +3898,7 @@ form.custom .custom.disabled {
 @media only screen and (min-width: 58.75em) {
   /* line 325, ../sass/foundation/components/_top-bar.scss */
   .top-bar {
-    background: #f9bc21;
+    background: #22ccff;
     *zoom: 1;
     overflow: visible;
   }
@@ -3935,7 +3935,7 @@ form.custom .custom.disabled {
   }
   /* line 341, ../sass/foundation/components/_top-bar.scss */
   .top-bar.expanded {
-    background: #f9bc21;
+    background: #22ccff;
   }
 
   /* line 344, ../sass/foundation/components/_top-bar.scss */
@@ -3968,13 +3968,13 @@ form.custom .custom.disabled {
   }
   /* line 362, ../sass/foundation/components/_top-bar.scss */
   .top-bar-section li a:not(.button) {
-    padding: 0 15px;
-    line-height: 45px;
-    background: #f9bc21;
+    padding: 0 2em;
+    line-height: 6em;
+    background: #22ccff;
   }
   /* line 366, ../sass/foundation/components/_top-bar.scss */
   .top-bar-section li a:not(.button):hover {
-    background: #909090;
+    background: #194d5e;
   }
   /* line 371, ../sass/foundation/components/_top-bar.scss */
   .top-bar-section .has-dropdown > a {
@@ -4022,13 +4022,13 @@ form.custom .custom.disabled {
     color: black;
     line-height: 1;
     white-space: nowrap;
-    padding: 7px 15px;
-    background: #fac33a;
+    padding: 7px 2em;
+    background: #3cd2ff;
   }
   /* line 419, ../sass/foundation/components/_top-bar.scss */
   .top-bar-section .dropdown li label {
     white-space: nowrap;
-    background: #fac33a;
+    background: #3cd2ff;
   }
   /* line 425, ../sass/foundation/components/_top-bar.scss */
   .top-bar-section .dropdown li .dropdown {
@@ -4039,17 +4039,17 @@ form.custom .custom.disabled {
   .top-bar-section > ul > .divider, .top-bar-section > ul > [role="separator"] {
     border-bottom: none;
     border-top: none;
-    border-right: solid 1px #facb53;
-    border-left: solid 1px #e1a306;
+    border-right: solid 1px #55d8ff;
+    border-left: solid 1px #00b7ee;
     clear: none;
-    height: 45px;
+    height: 6em;
     width: 0px;
   }
   /* line 443, ../sass/foundation/components/_top-bar.scss */
   .top-bar-section .has-form {
-    background: #f9bc21;
-    padding: 0 15px;
-    height: 45px;
+    background: #22ccff;
+    padding: 0 2em;
+    height: 6em;
   }
   /* line 451, ../sass/foundation/components/_top-bar.scss */
   .top-bar-section ul.right li .dropdown {
@@ -5961,7 +5961,7 @@ select {
 
 /* line 45, ../sass/foundation/components/_page_themes.scss */
 div.pageTheme {
-  background-color: #f9bc21;
+  background-color: #22ccff;
   border-style: solid;
   border-color: white;
   border-width: 0px 0 0 0;
@@ -5969,8 +5969,8 @@ div.pageTheme {
   padding: 0;
   position: relative;
   width: 100%;
-  color: #1a1301;
-  height: 90%;
+  color: #001a22;
+  height: 80%;
 }
 /* line 37, ../sass/foundation/components/_page_themes.scss */
 div.pageTheme h1, div.pageTheme h2, div.pageTheme h3 {
@@ -6071,7 +6071,8 @@ html, body {
 
 /* line 66, ../sass/app.scss */
 #header .inHeader {
-  padding-top: 10%;
+  padding-top: 20.5px;
+  text-align: center;
 }
 /* line 67, ../sass/app.scss */
 #header h2 {
@@ -6083,4 +6084,236 @@ html, body {
 #header h2 strong {
   font-weight: 800;
   color: #000;
+}
+
+/*Ajout de expand pour transparence sur titlearea  */
+/* line 73, ../sass/app.scss */
+.top-bar {
+  margin-bottom: 0;
+}
+/* line 75, ../sass/app.scss */
+.top-bar.expanded {
+  height: auto;
+  background: transparent;
+}
+/* line 79, ../sass/app.scss */
+.top-bar.expanded .title-area {
+  background: transparent;
+}
+
+/*TOP Bar */
+@media only screen and (min-width: 58.75em) {
+  /* line 88, ../sass/app.scss */
+  .top-bar {
+    /*background: $topbar-bg;
+     margin-bottom: $topbar-margin-bottom;  */
+    margin-bottom: 0;
+    background-color: transparent;
+    *zoom: 1;
+    overflow: visible;
+  }
+  /* line 101, ../sass/foundation/components/_global.scss */
+  .top-bar:before, .top-bar:after {
+    content: " ";
+    display: table;
+  }
+  /* line 102, ../sass/foundation/components/_global.scss */
+  .top-bar:after {
+    clear: both;
+  }
+  /* line 94, ../sass/app.scss */
+  .top-bar .toggle-topbar {
+    display: none;
+  }
+  /* line 96, ../sass/app.scss */
+  .top-bar .title-area {
+    float: left;
+  }
+  /* line 97, ../sass/app.scss */
+  .top-bar .name h1 a {
+    width: auto;
+  }
+  /* line 100, ../sass/app.scss */
+  .top-bar input,
+  .top-bar .button {
+    line-height: 2em;
+    font-size: 0.875em;
+    height: 2em;
+    padding: 0 10px;
+    position: relative;
+    top: 8px;
+  }
+  /* line 109, ../sass/app.scss */
+  .top-bar.expanded {
+    background: #22ccff;
+  }
+
+  /* line 112, ../sass/app.scss */
+  .contain-to-grid .top-bar {
+    max-width: 62.5em;
+    margin: 0 auto;
+    margin-bottom: 1.875em;
+  }
+
+  /* line 114, ../sass/app.scss */
+  .top-bar-section {
+    -webkit-transition: none 0 0;
+    -moz-transition: none 0 0;
+    transition: none 0 0;
+    left: 0 !important;
+  }
+  /* line 118, ../sass/app.scss */
+  .top-bar-section ul {
+    /*addon*/
+    background-color: transparent;
+    width: auto;
+    height: auto !important;
+    display: inline;
+  }
+  /* line 126, ../sass/app.scss */
+  .top-bar-section ul li {
+    float: left;
+  }
+  /* line 128, ../sass/app.scss */
+  .top-bar-section ul li .js-generated {
+    display: none;
+  }
+  /* line 132, ../sass/app.scss */
+  .top-bar-section li {
+    /** addon nav**/
+    /** addon nav**/
+  }
+  /* line 133, ../sass/app.scss */
+  .top-bar-section li a:not(.button) {
+    padding: 0 2em;
+    line-height: 6em;
+    /*background: $topbar-bg;      */
+    background: transparent;
+  }
+  /* line 138, ../sass/app.scss */
+  .top-bar-section li a:not(.button):hover {
+    background: #194d5e;
+  }
+  /* line 142, ../sass/app.scss */
+  .top-bar-section li a.niv1:not(.button) {
+    line-height: 6em;
+    line-height: 3em;
+    padding: 0 2em;
+    /*background: $topbar-bg;      */
+    background: transparent;
+  }
+  /* line 148, ../sass/app.scss */
+  .top-bar-section li a.niv1:not(.button):hover {
+    background: #194d5e;
+  }
+  /* line 154, ../sass/app.scss */
+  .top-bar-section .has-dropdown > a {
+    padding-right: 35px !important;
+  }
+  /* line 157, ../sass/app.scss */
+  .top-bar-section .has-dropdown > a:after {
+    content: "";
+    display: block;
+    width: 0;
+    height: 0;
+    border: inset 5px;
+    border-color: rgba(255, 255, 255, 0.5) transparent transparent transparent;
+    border-top-style: solid;
+    margin-top: -2.5px;
+  }
+  /* line 163, ../sass/app.scss */
+  .top-bar-section .has-dropdown.moved {
+    position: relative;
+  }
+  /* line 164, ../sass/app.scss */
+  .top-bar-section .has-dropdown.moved > .dropdown {
+    visibility: hidden;
+  }
+  /* line 169, ../sass/app.scss */
+  .top-bar-section .has-dropdown:hover > .dropdown, .top-bar-section .has-dropdown:active > .dropdown {
+    visibility: visible;
+  }
+  /* line 176, ../sass/app.scss */
+  .top-bar-section .has-dropdown .dropdown li.has-dropdown > a:after {
+    border: none;
+    content: "\00bb";
+    margin-top: -15px;
+    right: 5px;
+  }
+  /* line 187, ../sass/app.scss */
+  .top-bar-section .dropdown {
+    left: 0;
+    bottom: 6em;
+    background: transparent;
+    min-width: 100%;
+  }
+  /* line 194, ../sass/app.scss */
+  .top-bar-section .dropdown li a {
+    color: black;
+    line-height: 1;
+    white-space: nowrap;
+    padding: 7px 2em;
+    background: #3cd2ff;
+  }
+  /* line 202, ../sass/app.scss */
+  .top-bar-section .dropdown li label {
+    white-space: nowrap;
+    background: #3cd2ff;
+  }
+  /* line 208, ../sass/app.scss */
+  .top-bar-section .dropdown li .dropdown {
+    left: 100%;
+    top: 0;
+  }
+  /* line 216, ../sass/app.scss */
+  .top-bar-section > ul > .divider, .top-bar-section > ul > [role="separator"] {
+    border-bottom: none;
+    border-top: none;
+    border-right: solid 1px #55d8ff;
+    border-left: solid 1px #00b7ee;
+    clear: none;
+    height: 6em;
+    width: 0px;
+  }
+  /* line 226, ../sass/app.scss */
+  .top-bar-section .has-form {
+    background: #22ccff;
+    padding: 0 2em;
+    height: 6em;
+  }
+  /* line 234, ../sass/app.scss */
+  .top-bar-section ul.right li .dropdown {
+    left: auto;
+    right: 0;
+  }
+  /* line 238, ../sass/app.scss */
+  .top-bar-section ul.right li .dropdown li .dropdown {
+    right: 100%;
+  }
+}
+@media only screen and (min-width: 48em) {
+  /* line 248, ../sass/app.scss */
+  #header .inHeader {
+    padding-top: 120.5px;
+    text-align: left;
+  }
+}
+/* line 251, ../sass/app.scss */
+.row .rowcenter {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0;
+  margin-bottom: 0;
+  max-width: 62.5em;
+  *zoom: 1;
+}
+/* line 101, ../sass/foundation/components/_global.scss */
+.row .rowcenter:before, .row .rowcenter:after {
+  content: " ";
+  display: table;
+}
+/* line 102, ../sass/foundation/components/_global.scss */
+.row .rowcenter:after {
+  clear: both;
 }

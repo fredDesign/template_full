@@ -1072,7 +1072,7 @@ $header-font-weight:                   200;
 
 //// Background color for some page
 
-$page-background: #f9bc21   !default;
+$page-background: #22CCFF   !default;
 
 //// Table cell border style
 
@@ -1147,12 +1147,12 @@ $page-background: #f9bc21   !default;
 
 //// Background color for the top bar
 
-$themebg1-bg: #f9bc21;
+$themebg1-bg: #22CCFF;
 $topbar-bg:$themebg1-bg;
 
 //// Height and margin
 
-// $topbar-height: 45px;
+ $topbar-height: 6em;
 // $topbar-margin-bottom: emCalc(30px);
 
 //// Input height for top bar
@@ -1173,7 +1173,7 @@ $topbar-link-weight: 100;
 
 //// Top bar dropdown elements
 
- $topbar-dropdown-bg: rgba(220,220,220,1);
+ $topbar-dropdown-bg: #44aacc;
 
  $topbar-dropdown-link-color: #000000;
 // $topbar-dropdown-toggle-size: 5px;
