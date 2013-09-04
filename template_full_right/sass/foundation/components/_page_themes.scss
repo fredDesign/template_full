@@ -1,0 +1,60 @@
+//
+// Alert Variables
+//
+
+// We use this to control alert padding.
+$page-background: #22CCFF   !default;
+$page-background-border-color: #FFF !default;
+
+
+
+// We use this for close hover effect.
+$page-background-function-factor:     50%                                            !default;
+
+// We use these to control border styles.
+$page-background-border-style:        solid                                          !default;
+$page-background-font-weight:        800                                          !default;
+$page-background-border-width:        0px                                            !default;
+$page-background-title:        darken($page-background,$page-background-function-factor) !default;
+$page-background-padding:       emCalc(20px)                                   !default;
+
+
+
+// Alert Mixins
+//
+
+// We use this mixin to create a default alert base.
+@mixin themes_constructor ($page-background:$page-background,$page-background-border-width:$page-background-border-width,$page-background-border-color:$page-background-border-color,$page-background-padding: $page-background-padding,$page-background-font-weight:$page-background-font-weight) {
+  background-color: $page-background;
+  border-style: $page-background-border-style;
+  border-color: $page-background-border-color;
+  border-width: $page-background-border-width;
+  display: block;
+  padding: $page-background-padding;
+  position: relative;
+  width:100%;
+  color: darken($page-background, $page-background-function-factor);
+    h1,h2,h3 {
+      font-weight: $page-background-font-weight;
+      text-transform:uppercase;
+       color: lighten($page-background, $page-background-function-factor);
+    }
+
+}
+
+div.pageTheme {
+  @include themes_constructor($page-background,0px 0 0 0,#fff,0,200);
+  height:100%
+}
+div.pageTheme2 {
+   @include themes_constructor(#000);
+ }
+.NavTheme {
+   @include themes_constructor(rgba(240,240,240,0),1px 0 0 0,#fff,0,200);
+  font-family:  "Raleway";
+  font-weight:200;
+  position:absolute;
+  bottom:0;
+  background:transparent;
+  a{font-size:3em;}
+ }

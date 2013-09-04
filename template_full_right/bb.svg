@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<?xml-stylesheet href="stylesheets/styles-svg.css" type="text/css"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Calque_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="116.00px" height="189.0px" viewBox="0 0 116 188" enable-background="new 0 0 116 188"
+	 xml:space="preserve">
+<g id="logo">
+	<path fill="#FFFFFF" id="socle" d="M 32,136 84,136 84,136 32,136" opacity="0">
+
+        <animate attributeName="d" attributeType="XML"
+           from="M 32,136 84,136 84,136 32,136"
+           to="M 32,136 84,136 84,178 32,188"
+           begin="animationBody.end"  repeatCount="1" dur="0.5s" fill="freeze"
+          />
+           <animate id="animationOpacitySocle"
+                          attributeName="opacity"
+                          from="0" to="1" dur="1s"
+                          begin="animationBody.end"
+                          fill="freeze" />
+     </path >
+	<path fill="#FFFFFF" id="head" d="M 84.041,64.5h-52V78h52V64.5z M70.041,68.366h-24v-0.231h24V68.366z" opacity="0">
+	 <animate attributeName="d" attributeType="XML"
+                        from="M 84.041,64.5h-52V78h52V64.5z M70.041,68.366h-24v-0.231h24V68.366z"
+                        to="M 84,0h-52v52h52V0z M70,38h-24V14h24V38z"
+                        begin="animationBody.end"  repeatCount="1" dur="0.25s" fill="freeze"
+                       />
+     <animate id="animationOpacity"
+                attributeName="opacity"
+                from="0" to="1" dur="1s"
+                begin="animationBody.end"
+                fill="freeze" />
+
+        </path >
+	<rect id="hand-right" x="104" y="46" fill="#FFFFFF" width="12" height="12" opacity="0">
+           <animate id="animationOpacityhand-right"
+                      attributeName="opacity"
+                      from="0" to="1" dur="1s"
+                      begin="animationOpacitySocle.end"
+                      fill="freeze" />
+	</rect>
+	<rect id="hand-right" x="0" y="46" fill="#FFFFFF" width="12" height="12" opacity="0">
+           <animate id="animationOpacityhand-left"
+                      attributeName="opacity"
+                      from="0" to="1" dur="1s"
+                      begin="animationOpacitySocle.end"
+                      fill="freeze" />
+    </rect>
+	<path  id="body" fill="#FFFFFF" d="M 74,56 70,56 42,56 32,56 32,56 32,56 32,56 32,84 32,108 56,108 56,108 60,108 60,108 60,108 84,108 84,84 84,56
+                                       		84,56 84,56 84,56 ">
+		            <animate id="animationBody" attributeName="d" attributeType="XML"
+                    from="M 74,56 70,56 42,56 32,56 32,56 32,56 32,56 32,84 32,108 56,108 56,108 60,108 60,108 60,108 84,108 84,84 84,56
+                          		84,56 84,56 84,56 "
+                    to="M 74,56 70,56 42,56 32,56 18,56 18,80 32,80 32,108 32,132
+                        		56,132 56,108 60,108 60,108 60,132 84,132 84,108 84,80 98,80 98,56 84,56"
+                    begin="1"  repeatCount="1" dur="0.25s" fill="freeze"
+                   />
+
+    </path >
+</g>
+</svg>
