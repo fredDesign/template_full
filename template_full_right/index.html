@@ -21,16 +21,17 @@
 </head>
 <body>
 <div id="containerGlobal">
-<div class="leftCol">
+<div class="leftCol" >
     <embed src="backsvg-orange.svg" type="image/svg+xml"  width='200%'  style="width:200%;position:absolute;height:200%;left:0;top:-10em;" />
-    <embed src="bb.svg" type="image/svg+xml"/   id="logobb" style="width:90%;position:relative;z-index:20;margin:5%;top:20px" >
-
+    <embed src="bb.svg" type="image/svg+xml"  id="logobb" class="left_over" style="" />
 </div>
 <div class="rightCol">
 <div class="row totalRow pageTheme " id="header">
 
-        <embed src="backsvg.svg" type="image/svg+xml"  width='100%'  style="width:100%;position:absolute;height:100%;left:0;top:0;" />
-    <div class="row totalRow">
+
+           <embed data-0="top:0px;" data-500="top:200px" src="backsvg.svg" type="image/svg+xml"  width='100%' style="width:100%;position:absolute;height:100%;left:0;top:0;z-index:0;"   />
+
+    <div class="row totalRow ">
         <nav class="top-bar ">
             <ul class="title-area">
                 <!-- Title Area -->
@@ -90,7 +91,7 @@
             </section>
         </nav>
     </div>
-        <div class="row">
+        <div class="row section-container">
             <div class="large-centered large-12 ">
 
 
@@ -110,7 +111,7 @@
 	</div>
 
 
-	<div class="row totalRow ">
+	<div class="row totalRow stage st-1">
         <div class="rowcenter">
 		<div class="large-3 columns">
             <img src="html5.svg" type="image/svg+xml"   class="svgIcone"   style="width:60%;max-width:60%;margin:20%" />
@@ -154,7 +155,73 @@
 		</div>
         </div>
 	</div>
+	<div class="row totalRow stage st-2 " data-bottom-top="background-position:50% 0%" data-top-bottom="background-position:50% 100%;">
+        <embed data-0="top:0px;" data-1000="top:-000px" src="backsvg-orange.svg" type="image/svg+xml"   height="100%" style="width:100%;position:absolute;height:100%;left:0;top:0;z-index:0;opacity:0.5"   />
 
+        <div class="rowcenter">
+		<div class="large-3 columns">
+
+
+
+		</div>
+		<div class="large-3 columns">
+
+		</div>
+		<div class="large-3 columns">
+
+
+		</div>
+
+		<div class="large-3 columns">
+
+		</div>
+        </div>
+	</div>
+
+<div class="row totalRow stage ">
+    <div class="rowcenter">
+        <div class="large-3 columns">
+            <img src="html5.svg" type="image/svg+xml"   class="svgIcone"   style="width:60%;max-width:60%;margin:20%" />
+            <h3>The Grid</h3>
+
+
+
+            <h3>Buttons</h3>
+
+
+        </div>
+        <div class="large-3 columns">
+            <img src="html5.svg" type="image/svg+xml"   class="svgIcone" style="width:60%;max-width:60%;margin:20%" />
+            <h3>The Grid</h3>
+
+
+
+            <h3>Buttons</h3>
+
+
+        </div>
+        <div class="large-3 columns">
+            <img src="html5.svg" type="image/svg+xml"   class="svgIcone" style="width:60%;max-width:60%;margin:20%" />
+            <h3>The Grid</h3>
+
+
+
+            <h3>Buttons</h3>
+
+
+        </div>
+
+        <div class="large-3 columns">
+            <img src="html5.svg" type="image/svg+xml"   class="svgIcone" style="width:60%;max-width:60%;margin:20%" />
+            <h4>Getting Started</h4>
+            <p>We're stoked you want to try Foundation! To get going, this file (index.html) includes some basic styles you can modify, play around with, or totally destroy to get going.</p>
+
+            <h4>Other Resources</h4>
+            <p>Once you've exhausted the fun in this document, you should check out:</p>
+
+        </div>
+    </div>
+</div>
 
     <div class="row footer totalRow">
         <div class="large-8 columns">
@@ -203,12 +270,17 @@
 	<script src="javascripts/foundation/foundation.tooltips.js"></script>
 
 	<script src="javascripts/foundation/foundation.topbar.js"></script>
+	<script src="javascripts/vendor/skrollr.min.js"></script>
 
     <script src="javascripts/init.js"></script>
 	
   
   <script>
     $(document).foundation();
+    skrollr.init({
+        forceHeight: false
+    });
   </script>
 </body>
 </html>
+                

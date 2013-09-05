@@ -6136,31 +6136,37 @@ html, body {
 }
 /* line 104, ../sass/app.scss */
 .leftCol #logobb {
-  height: 250px;
+  width: 64px;
+  height: 110px;
+  top: 0;
+  position: relative;
+  z-index: 20;
+  margin: 5%;
 }
 
-/* line 108, ../sass/app.scss */
+/* line 113, ../sass/app.scss */
 .leftCol.over {
   width: 200px;
 }
-/* line 110, ../sass/app.scss */
+/* line 115, ../sass/app.scss */
 .leftCol.over #logobb {
   height: auto;
+  width: 80%;
+  margin: 5% 10%;
 }
 
-/* line 114, ../sass/app.scss */
+/* line 120, ../sass/app.scss */
 .rightCol {
   float: right;
   height: 100%;
   left: 0;
   top: 0;
-  overflow-y: scroll;
 }
 
 /********************************/
 /*TOP Bar */
 @media only screen and (min-width: 58.75em) {
-  /* line 128, ../sass/app.scss */
+  /* line 133, ../sass/app.scss */
   .top-bar {
     /*background: $topbar-bg;
      margin-bottom: $topbar-margin-bottom;  */
@@ -6178,19 +6184,19 @@ html, body {
   .top-bar:after {
     clear: both;
   }
-  /* line 134, ../sass/app.scss */
+  /* line 139, ../sass/app.scss */
   .top-bar .toggle-topbar {
     display: none;
   }
-  /* line 136, ../sass/app.scss */
+  /* line 141, ../sass/app.scss */
   .top-bar .title-area {
     float: left;
   }
-  /* line 137, ../sass/app.scss */
+  /* line 142, ../sass/app.scss */
   .top-bar .name h1 a {
     width: auto;
   }
-  /* line 140, ../sass/app.scss */
+  /* line 145, ../sass/app.scss */
   .top-bar input,
   .top-bar .button {
     line-height: 2em;
@@ -6200,26 +6206,26 @@ html, body {
     position: relative;
     top: 8px;
   }
-  /* line 149, ../sass/app.scss */
+  /* line 154, ../sass/app.scss */
   .top-bar.expanded {
     background: #22ccff;
   }
 
-  /* line 152, ../sass/app.scss */
+  /* line 157, ../sass/app.scss */
   .contain-to-grid .top-bar {
     max-width: 62.5em;
     margin: 0 auto;
     margin-bottom: 1.875em;
   }
 
-  /* line 154, ../sass/app.scss */
+  /* line 159, ../sass/app.scss */
   .top-bar-section {
     -webkit-transition: none 0 0;
     -moz-transition: none 0 0;
     transition: none 0 0;
     left: 0 !important;
   }
-  /* line 158, ../sass/app.scss */
+  /* line 163, ../sass/app.scss */
   .top-bar-section ul {
     /*addon*/
     background-color: transparent;
@@ -6227,31 +6233,31 @@ html, body {
     height: auto !important;
     display: inline;
   }
-  /* line 166, ../sass/app.scss */
+  /* line 171, ../sass/app.scss */
   .top-bar-section ul li {
     float: left;
   }
-  /* line 168, ../sass/app.scss */
+  /* line 173, ../sass/app.scss */
   .top-bar-section ul li .js-generated {
     display: none;
   }
-  /* line 172, ../sass/app.scss */
+  /* line 177, ../sass/app.scss */
   .top-bar-section li {
     /** addon nav**/
     /** addon nav**/
   }
-  /* line 173, ../sass/app.scss */
+  /* line 178, ../sass/app.scss */
   .top-bar-section li a:not(.button) {
     padding: 0 2em;
     line-height: 6em;
     /*background: $topbar-bg;      */
     background: transparent;
   }
-  /* line 178, ../sass/app.scss */
+  /* line 183, ../sass/app.scss */
   .top-bar-section li a:not(.button):hover {
     background: #194d5e;
   }
-  /* line 182, ../sass/app.scss */
+  /* line 187, ../sass/app.scss */
   .top-bar-section li a.niv1:not(.button) {
     line-height: 6em;
     line-height: 3em;
@@ -6259,15 +6265,15 @@ html, body {
     /*background: $topbar-bg;      */
     background: transparent;
   }
-  /* line 188, ../sass/app.scss */
+  /* line 193, ../sass/app.scss */
   .top-bar-section li a.niv1:not(.button):hover {
     background: #194d5e;
   }
-  /* line 194, ../sass/app.scss */
+  /* line 199, ../sass/app.scss */
   .top-bar-section .has-dropdown > a {
     padding-right: 35px !important;
   }
-  /* line 197, ../sass/app.scss */
+  /* line 202, ../sass/app.scss */
   .top-bar-section .has-dropdown > a:after {
     content: "";
     display: block;
@@ -6278,33 +6284,33 @@ html, body {
     border-top-style: solid;
     margin-top: -2.5px;
   }
-  /* line 203, ../sass/app.scss */
+  /* line 208, ../sass/app.scss */
   .top-bar-section .has-dropdown.moved {
     position: relative;
   }
-  /* line 204, ../sass/app.scss */
+  /* line 209, ../sass/app.scss */
   .top-bar-section .has-dropdown.moved > .dropdown {
     visibility: hidden;
   }
-  /* line 209, ../sass/app.scss */
+  /* line 214, ../sass/app.scss */
   .top-bar-section .has-dropdown:hover > .dropdown, .top-bar-section .has-dropdown:active > .dropdown {
     visibility: visible;
   }
-  /* line 216, ../sass/app.scss */
+  /* line 221, ../sass/app.scss */
   .top-bar-section .has-dropdown .dropdown li.has-dropdown > a:after {
     border: none;
     content: "\00bb";
     margin-top: -15px;
     right: 5px;
   }
-  /* line 227, ../sass/app.scss */
+  /* line 232, ../sass/app.scss */
   .top-bar-section .dropdown {
     left: 0;
     bottom: 6em;
     background: transparent;
     min-width: 100%;
   }
-  /* line 234, ../sass/app.scss */
+  /* line 239, ../sass/app.scss */
   .top-bar-section .dropdown li a {
     color: black;
     line-height: 1;
@@ -6312,17 +6318,17 @@ html, body {
     padding: 7px 2em;
     background: #3cd2ff;
   }
-  /* line 242, ../sass/app.scss */
+  /* line 247, ../sass/app.scss */
   .top-bar-section .dropdown li label {
     white-space: nowrap;
     background: #3cd2ff;
   }
-  /* line 248, ../sass/app.scss */
+  /* line 253, ../sass/app.scss */
   .top-bar-section .dropdown li .dropdown {
     left: 100%;
     top: 0;
   }
-  /* line 256, ../sass/app.scss */
+  /* line 261, ../sass/app.scss */
   .top-bar-section > ul > .divider, .top-bar-section > ul > [role="separator"] {
     border-bottom: none;
     border-top: none;
@@ -6332,30 +6338,56 @@ html, body {
     height: 6em;
     width: 0px;
   }
-  /* line 266, ../sass/app.scss */
+  /* line 271, ../sass/app.scss */
   .top-bar-section .has-form {
     background: #22ccff;
     padding: 0 2em;
     height: 6em;
   }
-  /* line 274, ../sass/app.scss */
+  /* line 279, ../sass/app.scss */
   .top-bar-section ul.right li .dropdown {
     left: auto;
     right: 0;
   }
-  /* line 278, ../sass/app.scss */
+  /* line 283, ../sass/app.scss */
   .top-bar-section ul.right li .dropdown li .dropdown {
     right: 100%;
   }
 }
 @media only screen and (min-width: 48em) {
-  /* line 288, ../sass/app.scss */
+  /* line 295, ../sass/app.scss */
   #header .inHeader {
     padding-top: 120.5px;
     text-align: left;
   }
 }
-/* line 291, ../sass/app.scss */
+/* line 299, ../sass/app.scss */
+.totalRow .section-container {
+  height: 100%;
+  background: rgba(0, 0, 0, 0);
+  position: relative;
+}
+
+/* line 306, ../sass/app.scss */
+.stage {
+  background: #fff;
+  position: relative;
+}
+/* line 309, ../sass/app.scss */
+.stage.st-1 {
+  background: #c0ff44;
+  -webkit-box-shadow: 0 0 20 #228888;
+  -moz-box-shadow: 0 0 20 #228888;
+  box-shadow: 0 0 20 #228888;
+}
+/* line 314, ../sass/app.scss */
+.stage.st-2 {
+  background-image: url("images/filter-blend_bb.jpg");
+  height: 480px;
+  overflow: hidden;
+}
+
+/* line 321, ../sass/app.scss */
 .row .rowcenter {
   width: 100%;
   margin-left: auto;

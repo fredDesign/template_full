@@ -4,7 +4,7 @@
 <svg version="1.1" id="Calque_1"
 xmlns="http://www.w3.org/2000/svg"
 xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="116.00px" height="189.0px" viewBox="0 0 116 188" enable-background="new 0 0 116 188"
+	  viewBox="0 0 116 188" enable-background="new 0 0 116 188" preserveAspectRatio="xMidYMid meet"
 	 xml:space="preserve">
 <g id="logo">
 	<path fill="#FFFFFF" id="socle" d="M 32,136 84,136 84,136 32,136" opacity="0">

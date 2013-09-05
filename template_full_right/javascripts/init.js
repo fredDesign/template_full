@@ -7,8 +7,8 @@ $(document).ready(function(){
     $(window).resize(function() {
         resizecont() ;
     })
-    $( ".leftCol" ).bind( "mouseenter mouseleave", function( event ) {
-        $( this ).toggleClass( "over" );
+    $( ".left_over" ).bind( "mouseenter mouseleave", function( event ) {
+        $('.leftCol' ).toggleClass( "over" );
     });
 
 

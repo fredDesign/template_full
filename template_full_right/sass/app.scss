@@ -102,13 +102,19 @@
   @include transition-duration(0.2s);
   @include transition-timing-function(ease-in);
    #logobb {
-     height:250px;
+     width:64px;
+	 height:110px;
+     top:0;
+     position:relative;
+     z-index:20;
+     margin:5%;
    }
 }
 .leftCol.over{
          width:200px  ;
          #logobb {
           height:auto;
+           width:80%;margin:5% 10%;
         }
 }
 .rightCol {
@@ -116,7 +122,6 @@
   height:100%;
   left: 0;
   top: 0;
-  overflow-y : scroll;
 }
 
 /********************************/
@@ -285,7 +290,32 @@
 }
 
 @media #{$small} {
-  #header {.inHeader {padding-top: 120.5px;text-align:left;}}
-}
+  #header {
 
+    .inHeader {padding-top: 120.5px;text-align:left;}}
+}
+.totalRow
+  {
+  .section-container{
+    height:100%;
+    background: rgba(0,0,0,0);
+    position: relative;
+  }
+
+}
+.stage {
+  background:#fff;
+  position:relative;
+  &.st-1 {
+    background:#c0ff44;
+    @include box-shadow(0 0 20px #288)
+  }
+
+  &.st-2 {
+    background-image: url('images/filter-blend_bb.jpg');
+    height:480px  ;
+    overflow:hidden;
+
+  }
+}
 .row .rowcenter {     @include grid-row;;}
