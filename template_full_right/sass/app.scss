@@ -67,6 +67,7 @@
         h2 {font-weight:800;font-size:2em;letter-spacing: -1px;
         strong {font-weight:800;color:#000}
         }
+  overflow:hidden;
 }
 /*Ajout de expand pour transparence sur titlearea  */
 
@@ -94,7 +95,7 @@
   left: 0;
   padding:1em;
   top: 0;
-  width:100px  ;
+  width:84px  ;
   z-index: 10;
   overflow:hidden;
   position: fixed;
@@ -307,12 +308,12 @@
   background:#fff;
   position:relative;
   &.st-1 {
-    background:#c0ff44;
+    background:#efefef;
     @include box-shadow(0 0 20px #288)
   }
 
   &.st-2 {
-    background-image: url('images/filter-blend_bb.jpg');
+    background-image: url('images/old_blend.jpg');
     height:480px  ;
     overflow:hidden;
 

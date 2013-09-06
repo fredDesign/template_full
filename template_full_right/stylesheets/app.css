@@ -6069,6 +6069,10 @@ html, body {
   color: #ffffff;
 }
 
+/* line 65, ../sass/app.scss */
+#header {
+  overflow: hidden;
+}
 /* line 66, ../sass/app.scss */
 #header .inHeader {
   padding-top: 20.5px;
@@ -6087,29 +6091,29 @@ html, body {
 }
 
 /*Ajout de expand pour transparence sur titlearea  */
-/* line 73, ../sass/app.scss */
+/* line 74, ../sass/app.scss */
 .top-bar {
   margin-bottom: 0;
 }
-/* line 75, ../sass/app.scss */
+/* line 76, ../sass/app.scss */
 .top-bar.expanded {
   height: auto;
   background: transparent;
 }
-/* line 79, ../sass/app.scss */
+/* line 80, ../sass/app.scss */
 .top-bar.expanded .title-area {
   background: transparent;
 }
 
 /***********globalContainer************/
-/* line 84, ../sass/app.scss */
+/* line 85, ../sass/app.scss */
 #containerGlobal {
   height: 100%;
   width: 100%;
 }
 
 /***********left Bar ************/
-/* line 90, ../sass/app.scss */
+/* line 91, ../sass/app.scss */
 .leftCol {
   float: left;
   background-color: black;
@@ -6117,7 +6121,7 @@ html, body {
   left: 0;
   padding: 1em;
   top: 0;
-  width: 100px;
+  width: 84px;
   z-index: 10;
   overflow: hidden;
   position: fixed;
@@ -6134,7 +6138,7 @@ html, body {
   -o-transition-timing-function: ease-in;
   transition-timing-function: ease-in;
 }
-/* line 104, ../sass/app.scss */
+/* line 105, ../sass/app.scss */
 .leftCol #logobb {
   width: 64px;
   height: 110px;
@@ -6144,18 +6148,18 @@ html, body {
   margin: 5%;
 }
 
-/* line 113, ../sass/app.scss */
+/* line 114, ../sass/app.scss */
 .leftCol.over {
   width: 200px;
 }
-/* line 115, ../sass/app.scss */
+/* line 116, ../sass/app.scss */
 .leftCol.over #logobb {
   height: auto;
   width: 80%;
   margin: 5% 10%;
 }
 
-/* line 120, ../sass/app.scss */
+/* line 121, ../sass/app.scss */
 .rightCol {
   float: right;
   height: 100%;
@@ -6166,7 +6170,7 @@ html, body {
 /********************************/
 /*TOP Bar */
 @media only screen and (min-width: 58.75em) {
-  /* line 133, ../sass/app.scss */
+  /* line 134, ../sass/app.scss */
   .top-bar {
     /*background: $topbar-bg;
      margin-bottom: $topbar-margin-bottom;  */
@@ -6184,19 +6188,19 @@ html, body {
   .top-bar:after {
     clear: both;
   }
-  /* line 139, ../sass/app.scss */
+  /* line 140, ../sass/app.scss */
   .top-bar .toggle-topbar {
     display: none;
   }
-  /* line 141, ../sass/app.scss */
+  /* line 142, ../sass/app.scss */
   .top-bar .title-area {
     float: left;
   }
-  /* line 142, ../sass/app.scss */
+  /* line 143, ../sass/app.scss */
   .top-bar .name h1 a {
     width: auto;
   }
-  /* line 145, ../sass/app.scss */
+  /* line 146, ../sass/app.scss */
   .top-bar input,
   .top-bar .button {
     line-height: 2em;
@@ -6206,26 +6210,26 @@ html, body {
     position: relative;
     top: 8px;
   }
-  /* line 154, ../sass/app.scss */
+  /* line 155, ../sass/app.scss */
   .top-bar.expanded {
     background: #22ccff;
   }
 
-  /* line 157, ../sass/app.scss */
+  /* line 158, ../sass/app.scss */
   .contain-to-grid .top-bar {
     max-width: 62.5em;
     margin: 0 auto;
     margin-bottom: 1.875em;
   }
 
-  /* line 159, ../sass/app.scss */
+  /* line 160, ../sass/app.scss */
   .top-bar-section {
     -webkit-transition: none 0 0;
     -moz-transition: none 0 0;
     transition: none 0 0;
     left: 0 !important;
   }
-  /* line 163, ../sass/app.scss */
+  /* line 164, ../sass/app.scss */
   .top-bar-section ul {
     /*addon*/
     background-color: transparent;
@@ -6233,31 +6237,31 @@ html, body {
     height: auto !important;
     display: inline;
   }
-  /* line 171, ../sass/app.scss */
+  /* line 172, ../sass/app.scss */
   .top-bar-section ul li {
     float: left;
   }
-  /* line 173, ../sass/app.scss */
+  /* line 174, ../sass/app.scss */
   .top-bar-section ul li .js-generated {
     display: none;
   }
-  /* line 177, ../sass/app.scss */
+  /* line 178, ../sass/app.scss */
   .top-bar-section li {
     /** addon nav**/
     /** addon nav**/
   }
-  /* line 178, ../sass/app.scss */
+  /* line 179, ../sass/app.scss */
   .top-bar-section li a:not(.button) {
     padding: 0 2em;
     line-height: 6em;
     /*background: $topbar-bg;      */
     background: transparent;
   }
-  /* line 183, ../sass/app.scss */
+  /* line 184, ../sass/app.scss */
   .top-bar-section li a:not(.button):hover {
     background: #194d5e;
   }
-  /* line 187, ../sass/app.scss */
+  /* line 188, ../sass/app.scss */
   .top-bar-section li a.niv1:not(.button) {
     line-height: 6em;
     line-height: 3em;
@@ -6265,15 +6269,15 @@ html, body {
     /*background: $topbar-bg;      */
     background: transparent;
   }
-  /* line 193, ../sass/app.scss */
+  /* line 194, ../sass/app.scss */
   .top-bar-section li a.niv1:not(.button):hover {
     background: #194d5e;
   }
-  /* line 199, ../sass/app.scss */
+  /* line 200, ../sass/app.scss */
   .top-bar-section .has-dropdown > a {
     padding-right: 35px !important;
   }
-  /* line 202, ../sass/app.scss */
+  /* line 203, ../sass/app.scss */
   .top-bar-section .has-dropdown > a:after {
     content: "";
     display: block;
@@ -6284,33 +6288,33 @@ html, body {
     border-top-style: solid;
     margin-top: -2.5px;
   }
-  /* line 208, ../sass/app.scss */
+  /* line 209, ../sass/app.scss */
   .top-bar-section .has-dropdown.moved {
     position: relative;
   }
-  /* line 209, ../sass/app.scss */
+  /* line 210, ../sass/app.scss */
   .top-bar-section .has-dropdown.moved > .dropdown {
     visibility: hidden;
   }
-  /* line 214, ../sass/app.scss */
+  /* line 215, ../sass/app.scss */
   .top-bar-section .has-dropdown:hover > .dropdown, .top-bar-section .has-dropdown:active > .dropdown {
     visibility: visible;
   }
-  /* line 221, ../sass/app.scss */
+  /* line 222, ../sass/app.scss */
   .top-bar-section .has-dropdown .dropdown li.has-dropdown > a:after {
     border: none;
     content: "\00bb";
     margin-top: -15px;
     right: 5px;
   }
-  /* line 232, ../sass/app.scss */
+  /* line 233, ../sass/app.scss */
   .top-bar-section .dropdown {
     left: 0;
     bottom: 6em;
     background: transparent;
     min-width: 100%;
   }
-  /* line 239, ../sass/app.scss */
+  /* line 240, ../sass/app.scss */
   .top-bar-section .dropdown li a {
     color: black;
     line-height: 1;
@@ -6318,17 +6322,17 @@ html, body {
     padding: 7px 2em;
     background: #3cd2ff;
   }
-  /* line 247, ../sass/app.scss */
+  /* line 248, ../sass/app.scss */
   .top-bar-section .dropdown li label {
     white-space: nowrap;
     background: #3cd2ff;
   }
-  /* line 253, ../sass/app.scss */
+  /* line 254, ../sass/app.scss */
   .top-bar-section .dropdown li .dropdown {
     left: 100%;
     top: 0;
   }
-  /* line 261, ../sass/app.scss */
+  /* line 262, ../sass/app.scss */
   .top-bar-section > ul > .divider, .top-bar-section > ul > [role="separator"] {
     border-bottom: none;
     border-top: none;
@@ -6338,56 +6342,56 @@ html, body {
     height: 6em;
     width: 0px;
   }
-  /* line 271, ../sass/app.scss */
+  /* line 272, ../sass/app.scss */
   .top-bar-section .has-form {
     background: #22ccff;
     padding: 0 2em;
     height: 6em;
   }
-  /* line 279, ../sass/app.scss */
+  /* line 280, ../sass/app.scss */
   .top-bar-section ul.right li .dropdown {
     left: auto;
     right: 0;
   }
-  /* line 283, ../sass/app.scss */
+  /* line 284, ../sass/app.scss */
   .top-bar-section ul.right li .dropdown li .dropdown {
     right: 100%;
   }
 }
 @media only screen and (min-width: 48em) {
-  /* line 295, ../sass/app.scss */
+  /* line 296, ../sass/app.scss */
   #header .inHeader {
     padding-top: 120.5px;
     text-align: left;
   }
 }
-/* line 299, ../sass/app.scss */
+/* line 300, ../sass/app.scss */
 .totalRow .section-container {
   height: 100%;
   background: rgba(0, 0, 0, 0);
   position: relative;
 }
 
-/* line 306, ../sass/app.scss */
+/* line 307, ../sass/app.scss */
 .stage {
   background: #fff;
   position: relative;
 }
-/* line 309, ../sass/app.scss */
+/* line 310, ../sass/app.scss */
 .stage.st-1 {
-  background: #c0ff44;
-  -webkit-box-shadow: 0 0 20 #228888;
-  -moz-box-shadow: 0 0 20 #228888;
-  box-shadow: 0 0 20 #228888;
+  background: #efefef;
+  -webkit-box-shadow: 0 0 20px #228888;
+  -moz-box-shadow: 0 0 20px #228888;
+  box-shadow: 0 0 20px #228888;
 }
-/* line 314, ../sass/app.scss */
+/* line 315, ../sass/app.scss */
 .stage.st-2 {
-  background-image: url("images/filter-blend_bb.jpg");
+  background-image: url("images/old_blend.jpg");
   height: 480px;
   overflow: hidden;
 }
 
-/* line 321, ../sass/app.scss */
+/* line 322, ../sass/app.scss */
 .row .rowcenter {
   width: 100%;
   margin-left: auto;

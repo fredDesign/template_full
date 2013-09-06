@@ -26,11 +26,19 @@
     <embed src="bb.svg" type="image/svg+xml"  id="logobb" class="left_over" style="" />
 </div>
 <div class="rightCol">
-<div class="row totalRow pageTheme " id="header">
+<div class="row totalRow pageTheme " id="header" style="">
 
 
-           <embed data-0="top:0px;" data-500="top:200px" src="backsvg.svg" type="image/svg+xml"  width='100%' style="width:100%;position:absolute;height:100%;left:0;top:0;z-index:0;"   />
 
+
+    <video id="example_video_1" data-0="top:-20px;" data-500="top:480px"  autoplay loop  autobuffer style="width:100%;position:absolute;left:0;top:0;z-index:0;"   />
+
+    <source src="http://www.youtube.com/demo/google_main.mp4" type="video/mp4" />
+        <source src="video.webm" type="video/webm" />
+        <source src="video/video_vintage.ogv" type="video/ogg" />
+        Ici l'alternative à la vidéo : un lien de téléchargement, un message, etc.
+    </video>
+    <embed data-0="top:0px;" data-500="top:200px" src="backsvg.svg" type="image/svg+xml"  width='100%' style="opacity:0.8;width:100%;position:absolute;height:100%;left:0;top:0;z-index:0;"   />
     <div class="row totalRow ">
         <nav class="top-bar ">
             <ul class="title-area">
@@ -119,8 +127,9 @@
 
 
 
-			<h3>Buttons</h3>
 
+			<h3>Buttons</h3>
+            <a data-top-bottom="opacity:0; z-index:-1;" data-center-bottom="opacity:0.8;  z-index:999;" data-center-top="opacity:0.8;  z-index:999;" data-bottom-top="opacity:0; z-index:-1;" data-anchor-target="#tour-block-2" class="btn-next icon-arrow-down-2 skrollable skrollable-between" href="#tour-block-2" style="opacity: 0.8; z-index: 999;">AAAA</a>
 
 		</div>
 		<div class="large-3 columns">
@@ -155,7 +164,7 @@
 		</div>
         </div>
 	</div>
-	<div class="row totalRow stage st-2 " data-bottom-top="background-position:50% 0%" data-top-bottom="background-position:50% 100%;">
+	<div id="tour-block-2"class="row totalRow stage st-2 " data-bottom-top="background-position:50% 0%" data-top-bottom="background-position:50% 100%;">
         <embed data-0="top:0px;" data-1000="top:-000px" src="backsvg-orange.svg" type="image/svg+xml"   height="100%" style="width:100%;position:absolute;height:100%;left:0;top:0;z-index:0;opacity:0.5"   />
 
         <div class="rowcenter">
@@ -270,17 +279,49 @@
 	<script src="javascripts/foundation/foundation.tooltips.js"></script>
 
 	<script src="javascripts/foundation/foundation.topbar.js"></script>
-	<script src="javascripts/vendor/skrollr.min.js"></script>
+<script src="javascripts/vendor/skrollr.min.js"></script>
+<script src="javascripts/vendor/skrollr.menu.min.js"></script>
 
     <script src="javascripts/init.js"></script>
 	
   
   <script>
     $(document).foundation();
-    skrollr.init({
+    s=skrollr.init({
         forceHeight: false
     });
+
+    skrollr.menu.init(s);
   </script>
+<script type="text/javascript">
+    // Once the video is ready
+    $("#example_video_1").ready(function(){
+
+        var myPlayer = this;    // Store the video object
+        var myContain = $('#header');    // Store the video object
+        var aspectRatio = 9/12; // Make up an aspect ratio
+
+        function resizeVideoJS(){
+            var heightVid = $("#example_video_1").height();
+            var heightContain = myContain.height();
+            var wContain =$(window).width();
+            var hContain =$(window).height();
+            if ((hContain/wContain)>aspectRatio) {
+
+            }   else {
+                // Get the parent element's actual width
+                var widthVid = $("#example_video_1").width();
+                // Set width to fill parent element, Set height
+                $("#example_video_1").width(wContain); console.log('wContain'+wContain) ;
+
+            }
+
+        }
+
+        resizeVideoJS(); // Initialize the function
+        window.onresize = resizeVideoJS; // Call the function on resize
+    });
+</script>
 </body>
 </html>
                 
